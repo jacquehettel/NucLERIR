@@ -1,0 +1,52 @@
+EMERGY 
+NORTHWEST P.O. Box 968 ¥ Richland, Washington 99352-0968 July 31,2000 G02-00-130 Docket No. 50-397 u.s. Nuclear Regulatory Commission 
+Document Control Desk 
+Washington, DC 20555 
+Gentlemen: Subject: 	WNP-2, OPERATING LICENSE NPF-21, 
+LICENSEE EVENT REPORT NO. 2000-002-01 
+Transmitted herewith is Licensee Event Report No. 2000-002-0 1 for WNP-2. This supplemental report is submitted pursuant to 10 CFR 50.73 and discusses details of the cause of the event and planned corrective actions to preclude recurrence. Should you have any questions or desire additional information regarding this matter, please call me or Mr. PJ Inserra at (509) 377-4147. Respectfully, e£~ Vice President, Operations SupportlPIO Mail Drop PE08 Attachment cc: 	EW Merschoff-NRC-RIV 
+JS Cushing -NRC-NRR 
+INPO Records Center 
+NRC Sr. Resident Inspector -927N (2) 
+DL Williams -BPAl1399 
+TC Poindexter -Winston & Strawn 
+---~-¥LICENSEE EVENT REPORT (LER) 
+Potential for Water Hammer Condition in Reactor Core Isolation Cooling System FACILITY NAME (1)  LER  NUMBER  (6)  PAGE  (3)  YEAR  SEQUENTIAL NUMBER  REVISION NUMBER  WNP-2  50-397  00  002  01  2  OF  3  TEXT (If more space is required, use additional copies of NRC Form 366A) (17) ABSTRACT (CONTINUED): It is concluded that there are minimal safety consequences associated with this event. As previously stated, the RCIC System, reactor coolant pressure boundary, safe shutdown systems, and primary containment integrity were assessed to be operable but non-conforming to "single failure" design criteria. This event was previously reported on February 2, 2000 as a I-hour non-emergency report in accordance with lOCFRSO.72(b)(I) (ii)(B). Event Description On February 2, 2000 at 1134 hours, with the plant in Mode 1 at 100% power, it was determined that the plant was in a condition that was outside of the design basis. The Reactor Core Isolation Cooling (RCIC) System [BN] is equipped with a water leg or "keep-fill" pump which is designed to maintain the RCIC System full of water at all times to prevent water-hammer. However, the RCIC water leg pump is not single failure proof. During accident or transient scenarios, or Appendix R fire scenarios which may require the RCIC System to cycle on and off to maintain reactor vessel water level, restart of the RCIC System in conjunction with a failure of the water leg pump, or low water leg pump discharge pressure, could create a water hammer in the RCIC piping system. The potential water hammer might jeopardize the integrity of the reactor coolant pressure boundary or primary containment isolation barriers associated with the RCIC System, as well as result in the potential loss of safe shutdown equipment from pipe whip, jets, and flooding. Immediate Corrective Action Immediate corrective actions included the performance of an assessment that concluded the RCIC System, reactor coolant pressure boundary, safe shutdown systems, and primary containment integrity were operable but non¥conforming to "single failure" design criteria. In addition, discussions were initiated with subject experts at GE on the generic implications of this issue, and the issue was discussed with the BWROG. Furthermore, to eliminate the possibility of water hammer, plant operating procedures have been revised to inhibit RCIC System operation during accident or transient scenarios if a loss of RCIC water leg pump is identified, or if a RCIC water leg pump low discharge pressure condition exists. Fire tours were also initiated to ensure a fire does not render the RCIC water leg pump inoperable should the RCIC System be used for plant safe shutdown. Further Evaluation The existing RCIC System is designed to automatically start if reactor water level decreases to the low level signal setpoint (Level 2) and automatically stop at the high water level signal setpoint (Level 8). If the reactor water level again decreases to low level signal setpoint, the RCIC System will restart. When RCIC first initiates, a lube oil cooling valve (RCIC-V-46) automatically opens but does not receive a signal to close when RCIC automatically stops. The open valve provides a drain path that will depressurize the system. The restart of the RCIC System on reaching Level 2 in conjunction with a postulated failure of the water leg pump could create a water hammer in the RCIC piping system. The water hammer could jeopardize the integrity of the reactor coolant pressure boundary or primary containment, cause flooding, or result in the inability to safely shutdown during accident/transient scenarios or during an Appendix R fire. LICENSEE EVENT REPORT (LER) Potential for Water Hammer Condition in Reactor Core Isolation Cooling System PAGE (3)FACILITY NAME (1) R (2) 
+LER NUMBER (6) 
+REVISIONYEAR SEQUENTIAL NUMBERNUMBER 3 OF 350-397 00 002 01WNP-2 TEXT (If more space is required, use additional copies of NRC Form 366A) (17) The original RCIC System design did not include automatic restart after trip at high water level (Level 8). At the Level 8 
+trip, the RCIC System was tripped and required local reset of the turbine steam inlet control valve before restart could 
+occur. This original design was revised in 1982 following BWROG/GE design change recommendations as a result of the 
+Three Mile Island accident. 
+Root Cause 
+The cause of this event has been determined to be a loss of design configuration during RCIC modifications made in 
+1982 as a result of the Three Mile Island accident. In 1982 the WNP-2 plant was still under construction, and the 
+Supply System (now Energy Northwest) did not have an engineering organization that approved design changes to 
+plant systems. During this time period the RCIC System vendor (GE) routed proposed design change documentation 
+to the architect-engineer (Burns and Roe, Inc.) for approval, though GE was responsible for the design change 
+preparation, the verification of the design change and the field implementation of the design change. It was intended 
+that the design change add the following requirements relative to the RCIC restart feature: 1) The RCIC System shall 
+be in a partial standby configuration after the system has been isolated by reactor high water level, and be ready to 
+restart without operator action if it receives another vessel low water level signal; and 2) The automatic closure of the 
+RCIC turbine lube oil cooling water supply valve (RCIC-V-46) is also required to prevent drainage from the 
+condensate storage tank:. Only the requirement for the RCIC System to be in partial standby and ready to restart was 
+actually incorporated into the WNP-2 RCIC System design. If the modification to RCIC-V-46 had been incorporated 
+to close on a Level 8 trip of the RCIC System, and a check valve included to preclude piping drain paths, the concerns 
+of system cycling and the potential for water hammer would not be imposed by design or operational requirements of 
+the RCIC "keep-fill" system. 
+Further Corrective Action 
+WNP-2 intends to implement an urgent plant modification that will change the operating logic of RCIC-V-46 so that it 
+will automatically close when the RCIC pump (RCIC-P-l) stops, thus eliminating an open leakage path from the 
+discharge header when the RCIC pump is not running. We will also replace a passive gate valve with an active check 
+valve to provide a fast-closing back-up isolation for RCIC-V-46. 
+Assessment of Safety Consequences 
+There are minimal safety consequences associated with this event. The RCIC System, reactor coolant pressure boundary, 
+safe shutdown systems, and primary containment integrity are operable but non-conforming to "single failure" design 
+criteria. Plant operating procedures have been revised to inhibit RCIC System operation during accident or transient 
+scenarios if a loss of RCIC water leg pump is identified, or if a RCIC water leg pump low discharge pressure condition I 
+exists. Operators have been trained on the revised procedures. Additionally, the water leg pump is supplied with safety¥
+related power, and receives a high level of monitoring and preventative maintenance. 
+Additional information provided by GE and the BWROG has not changed the conclusion that the safety consequences I 
+associated with this event are minimal, as discussed in the above paragraph. 
+Similar Events 
+There have been no previous similar events at WNP-2. 
+
