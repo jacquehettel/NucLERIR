@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ler when="2014-03-11" id="3972014002">
+   <abstract>On March 11, 2014. with the plant operating in Mode 1 at 100 percent power, an extent
+      of condition evaluation, resulting from a review of nuclear industry operational experience,
+      Identified areas in the plant that may be susceptible to secondary fires due to hot shorts
+      from unfused ammeters in the Direct Current distribution system. In the postulated event, a
+      fire In the station cable raceway, cable spreading room, or Control Room could cause a ground
+      loop through unprotected ammeter wiring or control circuit wiring and potentiafly result in
+      excessive current flow and heating to the point of causing a secondary fire. The postulated
+      secondary fire coufd affect the availability of equipment needed to place the plant in a safe
+      shutdown condition. This scenario has not been analyzed in accordance with 10 CFR 50 Appendix
+      R commitments. Compensatory hourly fire watch measures have been put in place and will remain
+      in place for the affected areas of the plant until analyses are completed and modifications
+      are put in place to eliminate the concern. The condition affects 14 Class 1E DC ammeters and 2
+      non-Class 1E DC ammeters in 3 plant divisions. The cause of the unfused DC ammeter circuits Is
+      that the original plant design did not include overcurrent protection features to isolate
+      fault current In the current flow path from the shunts for each direct current battery or
+      charger to the remote ammeter circuits In the Control Room. The corrective action plant
+      modification will provide fuses to the unprotected ammeters.</abstract>
+   <narrative>
+      <background>
+         <P>Operational experience available from INPO on December 10, 2013 through report
+            IER-l4-1354, &quot;Unprotected Direct Current Ammeters Result in Unanalyzed Conditions,b
+            involved Control Room direct current (DC) ammeters [II] lacking overcurrent protection
+            In their original plant wiring designs, which significantly degraded plant safety.
+            Specifically, wiring designs for the DC ammeter circuits In the Control Room often
+            included a shunt [17] in the current flow path from each DC battery [BTRY] or charger
+            [BYC]. Overcurrent protective devices were not used to Isolate fault current in the
+            ammeter wiring attached to the shunts at stations that reported this condition. A
+            postulated fire in the station cable raceway, cable spreading room, or Control Room
+            could cause an ammeter wire short to ground. If another DC wire from the opposite
+            polarity on the same DC source shorted to ground, fault current would flow through the
+            unprotected ammeter cable with the potential for overheating and initiating a secondary
+            fire. Either the secondary fire or the ground condition could adversely affect safe
+            shutdown equipment and hinder the ability of the plant to safely shut down as committed
+            to 10 CFR 50 Appendix R. </P>
+      </background>
+      <plantConds>
+         <P>The identification of specific applicability to Columbia of the unfused DC ammeters
+            condition occurred on February 27,2014 after issuance of an extent of condition report;
+            however, analysiS to determine impact to safety systems was not completed until March
+            11, 2014. The NRC was notified through Event Notification 49898 on the same date, in
+            accordance with 10 CFR 50.72(b)(3)(iI)(B) reporting requirements for the unanalyzed
+            condition. The plant was operating in Mode 1 at 100 percent power. within design
+            temperature and pressure conditions, and there were no structures, systems, or
+            components that were inoperable at the start of the event and that contributed to the
+            event. </P>
+      </plantConds>
+      <extentConds>
+         <P>Plant wiring design drawings for the DC Electrical System ammeter circuits that utilize
+            a shunt in the current flow path for each DC battery or charger were analyzed to
+            determine affected components. </P>
+         <P>The extent of condition analysis identified the following Columbia components that
+            provide remote monitoring or Control Room Indication associated with 24 VDC. 125 VDC. or
+            250 VDC circuits as being vulnerable to the condition: </P>
+         <L>
+            <LI>
+               <LI_Label>• </LI_Label> <LI_Title>Division 1: a total of six ammeters that provide
+                  operator indication for associated battery or battery charger current output, and
+                  remote monitoring of current flow. </LI_Title>
+            </LI> <LI>
+               <LI_Label>• </LI_Label> <LI_Title>Division 2: a total of six ammeters that provide
+                  operator indication for associated battery or battery charger current output, and
+                  remote monitoring of current flow. </LI_Title>
+            </LI>
+         </L> Division 3: a total of two ammeters that provide operator Indication for associated
+         battery or battery charger current output, and remote monitoring of current flow. DC
+         ammeter circuitry cables for two of the Division 2 ammeters are non-safety related feeding
+         their corresponding non-safety related DC ammeter. All other DC ammeter circuitry
+         divisional cables referenced above are safety-related in class 1 E raceways feeding their
+         respective safety-related DC ammeters. Failures and Errors There were no safety system or
+         safety component failures or errors resulting from this condition. </extentConds>
+      <safetyResponses>The plant's safety systems that could have been affected by this condition
+         have not experienced a condition-related abnormal response. The condition has not resulted
+         in declarations of system inoperabilities at the plant. QausegfCK;vuence This condition
+         occurred because the original plant wiring design did not include overcurrent protection
+         features to isolate fault current in the current flow path from the shunts for each DC
+         station battery and/or charger to the remote ammeter circuits in the Control Room. The
+         postulated event requires two concurrent extremely low resistance (hard) grounds; one on
+         the positive side of the battery through the ammeter circuit wiring routed to the Control
+         Room and one on the negative side of the battery. Because this is a very low probability
+         event, it was likely not considered in the original design.</safetyResponses>
+      <safetyConsequences>The discovered condition is being reported under criterion in 10 CFR
+         SO.73(a)(2)(ii)(B) -Any event or condition that results in the nuclear plant being In an
+         unanalyzed condition that significantly degraded plant safety. There have been no actual
+         adverse nuclear, radiological, or industrial safety consequences resulting from the
+         reported condition. The administrative controls of the Fire Protection Program, the
+         availability of fire detection and suppression systems, the established compensatory
+         measures, and a trained on-site fire brigade all combine to mitigate the event postulated
+         in the scenario until permanent corrective actions described below are
+         Implemented.</safetyConsequences>
+      <correctiveActions> Due to the complexity of the engineering review that is being conducted
+         towards mitigation of this condition, a conservative decision was made to establish hourly
+         fire tours for the fire areas of concern. Barrier Impairment measures have been implemented
+         per established station procedures. In addition to the immediate compensatory action
+         conSisting of hourly fire watches and establishment of barrier Impairments in the affected
+         areas, an engineering change is being developed to modify the affected DC electrical
+         circuits to comply with the commitments of 10 CFR 50 Appendix R. Specifically, the scope of
+         the engineering change will modify the eXisting DC ammeter circuits to include fuses,
+         credited as overcurrent protective devices, to ensure that the postulated fire scenario
+         does not impact the plant safety systems. Ensuing corrective action implementation work
+         orders will Include design changes, analysis updates, and physical work orders to bring
+         affected DC circuits In full compliance with Columbia commitments t010 CFR 50 Appendix
+         R.</correctiveActions>
+      <previousEvents>Columbia has not experienced similar occurrences in the past, based on a
+         review of LER historical records.</previousEvents>
+   </narrative>
+</ler>

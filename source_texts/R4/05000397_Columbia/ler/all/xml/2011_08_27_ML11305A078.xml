@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2011-08-27" id="3972011002">
+   <abstract>At 2021 hours on August 27, 2011, a loss of shutdown cooling occurred due to a spurious
+      undervoltage signal in one of two, in series, Electrical Protection Assembly (EPA) circuit
+      breaker supplying the B train of the Reactor Protection System (RPS) power bus (RPS-B).
+      Response to the spurious signal resulted in loss of power to RPS-B and associated actuations
+      including isolation of the common shutdown cooling suction valves. The spurious signal
+      originated in a logic board (GE Model 147D8652G007) associated with the EPA Breaker. Post
+      event testing was unable to specifically identify the discrete component responsible for the
+      failure. The root cause was that Energy Northwest was not proactive in replacing older,
+      obsolete model boards (including the one that caused the event) with a new model recommended
+      by the vendor. The faulty logic board and the other logic board in series for RPS-B were
+      replaced with newer model boards. Further corrective actions will replace the remaining logic
+      boards currently installed in the plant with the newer models. This event is being reported
+      under 10 CFR 50.73(a)(2)(v) as an event that could have prevented fulfillment of a safety
+      function, as well as an invalid actuation of containment isolation in multiple systems per 10
+      CFR 50.73(a)(2)(iv).</abstract>
+   <narrative>
+      <plantConds>
+         <P>At the time of the event, the plant was in Mode 4 and 144 days ,,into refue,ling outage
+            20 (R-20). Shutdown cooling was provided by Loop B of the shutdown cooling (SDC) [BO]
+            system. Reactor temperature was approximately 107 degrees Fahrenheit and RPV Level was
+            in the 80 -100 inch range as indicated on shutdown range instrumentation. There was no
+            equipment that was inoperable at the time of the event which contributed to the event. '
+         </P>
+      </plantConds>
+      <eventDesc>
+         <P>At 2021 hours on August 27, 2011, the Reactor Protection System (RPS) electrical power
+            system bus &quot;B&quot; (RPS-B) [EC] was lost resulting in isolation of the active loop
+            of shutdown cooling. Field survey, noted that both ElectricaJ Protection
+            Assembly'(EPA),circui~breake~s [52] providing rlormal power supply for RPS-B were in the
+            trip free position. The. upstream EPA preaker (J;l,PS-EPA&lt;3,B) had undervoltage and
+            power in Hghts illuminated.' No jndicating lights were present,on,the downstream breaker
+            (RPS-EPA-3D). Immediat~ly following the event, the motor generator [MG] set supplying
+            RPS-8 was noted to be running at 120 V with approximately 0 amps indicated current. Loss
+            of RPS-8 results in isolation of primary containment isolation valves in multiple
+            systems including closing the common shutdown cooling suction line rendering both
+            shutdown cooling loops inoperable. Due, to ,both shutdown cooling,Joops being
+            inoperable, Technical Specification Action Statement 3.4.1 O.A was entered. </P>
+
+         <P>All expected isolations were validated to have occurred due to the loss of RPS-8,
+            including isolation of containment isolation valves in Groups 2, 4, 6, &amp; 7 including
+            the residual heat removal, reactor water cleanup [CE], reactor r~circulation,[AD],
+            radiological drain [WK], 'contra! rod dr!ve,-[AA] and traversing incore probe [IG]
+            systems. ImrY;lediate investigations confirmed that the loss of RPS-B was not caused by
+            ongoing work, or by manual action directly on the Circuit breaker. This eyent'is
+            reportable as an event that could have prevented fulfillment of a safety function needed
+            to remove residual heat in accordance with 10 CFR 50.73(a)(2)(v)(8), as well as an
+            invalid system actuation resulting in containment isolation in more than one system. A
+            10 CFR 50:72(b)(3)(v)(8) notification was made via Event Number 47209. ' </P>
+      </eventDesc>
+      <correctiveActions>
+         <P>RPS-8 was repowered from the alternate power supply, the valve isolations were reset per
+            plant procedures, and the technical specification action statement was exited. </P>
+
+         <P>Following the event, a faulted logic board (GE Model 147D8652G007) [EC8D] was replaced
+            with a vendor recommended newer replacement model. The logic board on the other in-line
+            EPA circuit breaker for RPS-8 normal power supply was also replaced with a newer model
+            board. </P>
+      </correctiveActions>
+      <safetyConsequences>
+         <P>The total time without shutdown cooling was 34 minutes and the reactor coolant system
+            (RCS) temperature rose approximately 4 ,degrees Fahrenheit. The calculatedJime to reach,
+            200 degrees Fahrenheit was approximately 11 hours. An extended loss of shutdown cooling
+            could have led to excessive fuel temperatures and ultimately fuel damage. However, the
+            actual significance was limited due to the short duration of the SDC outage and minimal
+            temperature rise with substantial margin to 200 degrees. If the event had occurred
+            earlier in the refueling outage shortly after shutdown, the significance would have been
+            greater since the time to 200 degrees F is much shorter and could have resulted in an
+            unintended and unplanned MODE change from MODE 4 to MODE 3. ' •.1, Had the logic card
+            failure occurred in Modes 1 or 2, the same isolations and actuations would occur but
+            would not be expected to result in a plant trip. The resulting isolations would require
+            operator intervention to mitigate, • but all response actions are covered by existing
+            station procedures.</P>
+      </safetyConsequences>
+      <eventCause>The reason for the loss of RPS-B was due to a spu'rious unde'rvoltage trip signal
+         from a logic board which is part of the EPA circuit breaker for RPS-B. The spus,ious
+         yi1deivolt~g~ s,ig.nal was caused by a logic board fault&quot; which has been identified
+         aEj the direct cause of the 'event. Theroat cause is that Energy Northwest was not '
+         proactive in replacing older, obsolete., logic boards to new models recommended by the
+         vendor. '&quot;</eventCause>
+      <previousEvents>No previous occurrences involvin'g a logic b0ard failure leading to an EPA
+         breaker trip have been identified at Columbia.</previousEvents>
+      <correctiveActions>At the time of the event, a total of six of the GE
+         Model&quot;'147D8652G007:logic boards were installed in the plant. Two were replaced as
+         part of the immediate corrective actions and the remaining four will be replaced as part of
+         the corrective actions to prevent recurrence. Analysis of the logic board by the vendor was
+         inconclusive.</correctiveActions>
+   </narrative>
+</ler>

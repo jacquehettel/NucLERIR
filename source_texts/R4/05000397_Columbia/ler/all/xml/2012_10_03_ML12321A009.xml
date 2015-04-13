@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ler when="2012-10-03" id="3972012005">
+   <abstract>In July 2012, the Nuclear Regulatory Commission (NRC) questioned Columbia Generating
+      Station's (Columbia) practice of applying the Service Water (SW) Technical Specification (TS)
+      3.7.1, as called out in procedures and work instructions, when taking safety related room
+      coolers or fans out of service. This question was entered into Columbia's corrective action
+      process and on October 3, 2012, it was determined that this practice had resulted in instances
+      in which Columbia had been in a condition prohibited by TS. Specifically, Columbia did not
+      enter the appropriate TS for an inoperable system, subsystem, train or component when the
+      necessary attendant non-technical specification support equipment was not capable of
+      performing its support function. Columbia entered the TS Limiting Condition for Operation
+      (LCO) Action for one SW subsystem inoperable rather than entering the appropriate TS Action
+      for the equipment supported by the room coolers. Columbia's procedures and work instructions
+      were based on an inappropriate example provided in TS Bases 3.7.1. This information was added
+      to the TS Bases in 1999. A review identified multiple occurrences over the past three years in
+      which Columbia had not entered the appropriate TS, and on five occurrences, Columbia was in a
+      condition prohibited by TS. The cause is due to human error in failing to recognize that the
+      change to the TS Bases in 1999 required NRC review and approval. Corrective actions consist of
+      revising the affected procedures and work instructions and correcting the TS Bases language.
+      There were no actual safety consequences associated with this event.</abstract>
+   <narrative>
+      <eventDesc>In July 2012, the Nuclear Regulatory Commission (NRC) questioned Columbia
+         Generating Station's (Columbia) practice of applying the Service Water (SW) [EllS: BI]
+         Technical Specification (TS) 3.7.1, as called out in procedures and work instructions, when
+         taking safety related room coolers [EllS: CLR] or fans out of service. This question was
+         entered into Columbia's corrective action process and on October 3,2012, it was determined
+         that this practice was inappropriate. Specifically, Columbia did not enter the appropriate
+         TS for an inoperable system, subsystem, train or component when the necessary attendant
+         non-technical specification support equipment was not capable of performing its support
+         function. Columbia entered the TS Limiting Condition for Operation (LCO) Action for one SW
+         subsystem inoperable rather than entering the appropriate TS Action for the equipment
+         supported by the room coolers. Columbia's procedures and work instructions directed entry
+         into TS 3.7.1 Actions when either room coolers or main control room envelope fans [EllS:
+         FAN] were inoperable. The room coolers contain cooling coils cooled by SW. The procedures
+         and work instructions were based on an example provided in TS Bases 3.7.1 which stated that
+         &quot;if DC Sources -Operating (LCO 3.8.4) is not met solely due to room cooler degradation
+         and entry into LCO 3.7.1 Conditions and Required Actions is made, the electrical equipment
+         in the affected equipment room(s) are required to be declared inoperable, however, the
+         Conditions and Required Actions associated with this supported system (LCO 3.8.4) are not
+         required to be entered.&quot; Due to the application of this provision in the TS Bases,
+         Columbia failed to enter the appropriate TS Condition and, in some cases, failed to
+         complete the Required Actions within the associated Completion Times upon removal of a
+         safety related room cooler from service. This resulted in several occurrences in which
+         Columbia was in a condition prohibited by TS and reportable under 10CFR50.73(a)(2)(i)(B). </eventDesc>
+      <extentConds>An extent of condition review was performed to determine when, in the past three
+         years, this provision has been used when room coolers were removed from service. Thirty
+         instances were found. Of these, five instances were found when the total out of service
+         time exceeded the TS allowed outage time as follows: • On 11/24/09, RRA-FN-11 (room cooling
+         for Division 1 125 V AC power distribution system [EllS: ED]), was inoperable 32.7 hours.
+         TS 3.7.1.B &quot;One SW subsystem inoperable&quot; and TS 3.8.1.B &quot;One required DG
+         inoperable&quot; were entered instead of TS 3.8.7.A &quot;Division 1 or 2 AC electrical
+         power distribution subsystem inoperable.&quot; TS 3.8.7.A requires restoration of Division
+         1 AC electrical power distribution subsystem within 8 hours or else be in Mode 3 in the
+         following 12 hours. Contrary to this Columbia remained in Mode 1. • On 4/26/10, RRA-FN-10
+         (room cooling for Division 2 125 V AC power distribution system [EllS: ED]) was inoperable
+         20.0 hours. TS 3.7.1.B &quot;One SW subsystem inoperable&quot; and TS 3.8.1.B &quot;One
+         required DG inoperable&quot; were entered instead of TS 3.8.7.A &quot;Division 1 or 2 AC
+         electrical power distribution subsystem inoperable.&quot; TS 3.8.7.A requires restoration
+         of Division 2 AC electrical power distribution subsystem within 8 hours or else be in Mode
+         3 in the following 12 hours. Contrary to this Columbia remained in Mode 1. • On 8/4/10,
+         RRA-FN-11 was inoperable 25.7 hours. TS 3.7.1.8 &quot;One SW subsystem inoperable&quot; and
+         TS 3.8.1.8 &quot;One required DG inoperable&quot; were entered instead of TS 3.8.7.A
+         &quot;Division 1 or 2 AC electrical power distribution subsystem inoperable.&quot; TS
+         3.8.7.A requires restoration of Division 1 AC electrical power distribution subsystem
+         within 8 hours or else be in Mode 3 in the following 12 hours. Contrary to this Columbia
+         remained in Mode 1. • On 9/1/10, RRA-FN-12 (room cooling for Division 1 250 V DC power
+         distribution system [EllS: EJ]) was inoperable for 18.2 hours. TS 3.7.1.8 &quot;One SW
+         subsystem inoperable&quot; and TS 3.8.1.8 &quot;One required DG inoperable&quot; were
+         entered instead of TS 3.8.7.0 &quot;Division 1 250 V AC electrical power distribution
+         subsystem inoperable.&quot; TS 3.8.7.0 requires declaring supported features inoperable
+         immediately. A supported feature, RWCU-V-4 (a primary containment isolation valve [EElS:
+         ISV]) should have been declared inoperable and in accordance with TS 3.6.1.3.A be isolated
+         within 4 hours or be in Mode 3 within 12 hours. Contrary to this Columbia remained in Mode
+         1. • On 9/1/10, RRA-FN-11 was inoperable 21.3 hours. TS 3.7.1.8 &quot;One SW subsystem
+         inoperable&quot; and TS 3.8.1.B &quot;One required DG inoperable&quot; were entered instead
+         of TS 3.8.7.A &quot;Division 1 or 2 AC electrical power distribution subsystem
+         inoperable.&quot; TS 3.8.7.A requires restoration of Division 1 AC electrical power
+         distribution subsystem within 8 hours or else be in Mode 3 in the following 12 hours.
+         Contrary to this Columbia remained in Mode 1.</extentConds>
+      <correctiveAction>Plant procedures and work order instructions were revised to direct entry
+         into the correct TS Action.</correctiveAction>
+      <eventCause>LCO 3.0.6 provides guidance regarding the appropriate actions to be taken when a
+         single inoperability of a support system also results in the inoperability of one or more
+         supported systems. However, for LCO 3.0.6 to be applied, there must be a specific LCD
+         covering the supported system. For instance, SW is a support system for ECCS. If SW is
+         inoperable, LCO 3.0.6 allows you to just enter the Actions for SW and not enter the Actions
+         for ECCS. For cases where there is no specific LCO for the support equipment, the supported
+         system Actions must be entered. LCO 3.0.6 was added to the TS during the conversion to
+         Improved TS (ITS) in 1997. The ITS conversion was based on NUREG-1434 Rev. 1 for BWRl6
+         plants. SW is the ultimate cooling water for all of the safety related room coolers. If an
+         entire subsystem of SW is inoperable, LCO 3.0.6 requires that TS 3.7.1 be entered. The
+         individual safety related room coolers were not covered by their own TS LCD. In 1999, plant
+         staff concluded that it was not logical to have to enter a more restrictive TS for having
+         one room cooler inoperable, versus an entire subsystem of SW. Consequently, the TS Bases
+         were modified to provide an example of entry into TS 3.7.1 Actions for inoperable room
+         coolers. This change was done under 10 CFR 50.59 and did not receive NRC approval. This
+         change was not consistent with TS rules of usage and did not comply with TS language. The
+         change incorrectly identified the room coolers as supporting the function of SW so that an
+         inoperability of the room cooler would only require entry into the associated actions for
+         the SW system. This then incorrectly allowed the provisions of LCD 3.0.6 to be used to
+         avoid entering the Conditions and Required Actions of the supported system(s). This change
+         to the TS Bases was made to address a lack of specificity in the TS concerning safety
+         related room coolers. However, the correct change mechanism was not utilized. The plant
+         staff used the 10 CFR 50.59 process rather than obtaining a License Amendment under 10 CFR
+         50.90. Plant staff did not recognize the change as being a change to the TS. Since the
+         change was made over a decade ago, the causes of the human error cannot be determined with
+         any certainty. However, it is believed that the staff may have made a technical argument
+         for the acceptability of the change without recognizing that they were not in compliance
+         with the rules for making changes.</eventCause>
+      <previousEvents>On February 14, 2012, Arkansas Nuclear Unit-1 received a similar NCV for
+         improperly entering TS 3.7.1 instead of TS 3.8.4.</previousEvents>
+      <correctiveActions>The language in the TS Bases will be revised as
+         appropriate.</correctiveActions>
+      <safetyConsequences>CGS is analyzed and evaluated for a loss of one subsystem of service water
+         for 72 hours (TS 3.7.1). Service water is the ultimate cooling source for all of the safety
+         related room coolers. Having an individual room cooler out of service for up to 72 hours is
+         bounded by the loss of one subsystem of service water.</safetyConsequences>
+   </narrative>
+</ler>

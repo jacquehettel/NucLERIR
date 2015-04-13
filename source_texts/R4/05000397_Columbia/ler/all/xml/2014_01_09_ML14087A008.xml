@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2014-01-09" id="3972014001">
+   <abstract>On January 9, 2014 at 1743 and 1834 hours secondary containment was declared Inoperable
+      during repositioning of the dampers. These two events had durations of 3 and 2 minutes
+      respectively. Control Room operators took manual control of the Reactor BuUding Exhaust Air
+      flow system to restore secondary containment in the first event, and the controller restored
+      pressure automatically in the second. On January 15,2014 at 0907 hours and February 17,2014 at
+      0304 hours secondary containment was declared inoperable dur/~ repositioning of the dampers
+      and during high winds respectively. These two events had durations of 6 and 2 minutes
+      respectively. The system controller automaticallY restored secondary containment. differential
+      pressure in both events, .. . . In each of these events secondary containment vacuum was not
+      maintained greater than or equal to 0.25 inches of vacuum water gauge as required by Technical
+      specmcation 3.6.4.1, While Technical Specification limits were exceeded, the resulting
+      pressure excursion was bounded by analytical results, and thus there were no safety
+      consequences for this event The cause(s) for the event is currently under investigation. A
+      supplemental LER is planned for when testing and Investigation Is completed. Corrective
+      actions will be developed based upon the cause(s).</abstract>
+   <narrative>
+      <plantConds>Event 1: January 9,2014 at 1743 hours Event 2: January 9, 2014 at 1834 hours Event
+         3: January ~5, 2014 at 0907 hours Event 4: Februaty 17, 2014 at 0304 hours At the time of
+         all events, the plant was operating In Mode 1 at 100% power. There were no structures,'
+         systems. or components that were inoperabte at the start of any of the events that
+         contributed 10 the events.</plantConds>
+      <eventDesc>Event81 &amp;2-On January 9, 2014 at 1743 and 1834 hours secondary containment
+         vacuum was not maintained while Reactor Building Outside Air (ROA) heating coil face and
+         bypass dampers were repositioning due to outside ambient temperature fluctuation past the
+         set point. These dampers and heating colt allow for outside air to be heated as it enters
+         the system. These two events had durations of 3 and 2 minutes respectively. In Event 1
+         control room operators took manua' control of the Reactor Building Exhaust Air (REA) flow
+         in-service differential pressure controller (DPlC) (REA&quot;[)PIC-1A) to restore secondary
+         containment vacuum to greater than 0.25 inches of vacuum water gauge. In Event 2 the REA
+         in-service controller (AEA-DPIC-1 A) automatically restored secondary containment vacuum to
+         greater than 0.25 inches water gauge (inwg). Event 3-On January 15, 2014 at 0907 hours
+         secondary containment vacuum was not maintained while the ROA heating coil face and bypass
+         dampers were repositioning due to outside ambient temperature fluctuation past the set
+         point. This event had duration of 6 minutes. In this event the REA in-service controller
+         (AEA-DPIC-1 A) automatically restored secondary containment vacuum to greater than 0.25
+         Jnwg. -Event 4-On February 17. 2014 at 0304 hours secondary containment vacuum was not
+         maintained during a ~riod of high wlnds. This event had duration of 2 minutes: tn this
+         event the REA In-service controller (REA-DPIC-1B) automatically restored secondary
+         containment vacuum to greater than 0.25 inwg. In each event described above, because
+         Reactor Building [NGJ vacuum decreased below 0.25 inches of water gauge, secondary
+         containment was logged as inoperable in the surveillance Jog and Technical Specification
+         3,6.4.1 Action A was entered.</eventDesc>
+      <extentCond>This condition of Reactor Building vacuum momentarily dropping below the
+         prescribed limit is specific to the Reactor Buikfing Heating Ventilation and Air Cooling
+         (HVAC) [VAl and Standby Gas Treatment (SGT) (BH) systems. and their capability to estabUsh
+         and maintain secondary containment vacuum. No other systems were affected as a result of
+         this condition. During an extent of condition review performed to detennine past
+         operability. It was determined that there were multiple instances where secondary
+         containment vacuum was tess than the T5 required value of 025 inwg. In these instances
+         secondary containment vacuum went below the T8 required value of 0.25 inwg and went
+         unnoticed by operators as the annunciator alarm comes in at 0.0 inwg. This alarm value has
+         been identified as incOrrect to alert operators to secondary containment vacuum below the
+         T5 required value of 0.25 inwg and the condition has been documented in the corrective
+         action process to be aligned with the T5 value of 0.25 inwg. In each of these events the
+         REA in-service controller automatically restored secondary containment vacuum to greater
+         than 0.25 mwg. immediate Corrective Action In Event 1 Operators took manual control of the
+         ReA differential pressure (dP) controller [POC} and quickly adjusted REA flow to restore
+         secondary containment vacuum to greater than 0.25 inwg. In Events 2, 3, and 4 the REA flow
+         in-service controtler automaticaUy restored secondary containment vacuum to greater than
+         0.25 inwg. Cause In accordance with NUREG-1022 Revision 3 Section 2.3 these four events are
+         being reported together as these have all occurred in the 60 day LER reporting period and
+         appear to have similar cause(s) for each event. Events 1 &amp; 2 were reported together as
+         they were related and occurred within an hour of each other. Events 3 and 4 were reported
+         under individual ENS notifications. Secondary vacuum dropping below the TS required value
+         of 0.25 inwg happened in four separate events in this LER reporting period. All four of
+         these events were similar in that an external weather related event, three temperature
+         related transients and one wind reJated transient. occurred that requi~d the exhaust
+         ventilation fan to adjust its flow to maintain a'vacuum above the T5 required value of 0.25
+         inwg. To futly understand the ,cause of these events an apparent cause analysis has been
+         initiated to determine causal factors. . .' '. . . . At thi$ time there are five possible
+         causal factors that are being considered, with a possibility of a combination of two or
+         more of these factors. Actions are currently being taken to confirm or refute each of these
+         possible causal factors. These actions include, bUt are not Umited to, verifying set-points
+         on the two differential pressure controllers, design and calculation review. equipment
+         Inspection. and testing of the ventilation system, gathering operating data from each train
+         while in-service. This testing will perform an equipment inspection of both trains of the
+         ROAIREA system, verify the setpoints for each of the differential pressure controllers, and
+         determine the'system response of both of the Independent systems reaction to weather
+         related transients. Once testing is completed the system response wHI be oompared to the
+         system design to validate the response and corrective actions will be developed based upon
+         the causal factors. A supplement to this LEA wUl be submitted once causal factors and
+         corrective actions have been established.</extentCond>
+      <previousEvents>A loss of the ability to maintain secondary containment vacuum greater than
+         required has occurred and was reported at Columbia Generating Station (Columbia) three
+         times in the past two years. On August 25,2013. reported under LER 2013..()()7'()(),
+         secondary containment was declared Inoperable during a sudden thunderstorm when secondary
+         containment vacuum was not maintained greater than or equal to O.25Inwg. On July 24,2012,
+         reported under LER 2012-003-00. secondary containment vacuum was not maintained due to an
+         inadvertent trip of one set of the redundant Reactor Building HVAC fans (FAN). during
+         ongoing maintenance on the SGT system. On December 10, 2011, reported under LEA
+         2011..()()4..()O, secondary containment vacuum was not maintained and the cause was
+         determined to be Ice buildup and subsequent release on exterior equipment supplying the
+         Reactor Building HVAC system. The first Operating Experience (OE) event is similar in cause
+         as the four events reported In this LEA. Due to the single occurrence and the extreme
+         weather conditions at the time, multiple causal factors were not considered. A corrective
+         action whiCh could have prevented recurrence of this event, to alert operations to a
+         potential issue with secondary containment before the Technicat Specification. LCO
+         3.6.4.1.A, for secondary containment vacuum is reached, was in progress at the time of the
+         four events reported in this LEA. The last two OE events have associated corrective
+         actions, and the causes are not applicable to the current cause of weather related
+         secondary containment vacuum changes, nor would corrective actions from these past two
+         events prevented occurrence of these four events reported in this LEA. As discussed in the
+         Reactor Oversight Process working group public meeting held on January 15, 2014 the
+         industry has experienced an increase in reports of safety system functional fanures (SSFF)
+         in where there is not a true loss of safety function, but momentary conditions in which
+         Technlcal Specification operability criteria are not satisfied. Specifically temporary
+         losses of secondary containment vacuum have increased in the . Industry. The four events
+         described In this LER fall into this increase in number of reports.</previousEvents>
+      <correctiveActions>Corrective actions will be submitted with a supplement to this LER once
+         testing and determination of cause is completed.</correctiveActions>
+      <safetyConsequences>This event resulted in an unplanned entry into Leo 3.6.4.1.A. Secondary
+         containment vacuum was less than 0.25 inwg for between 2 and 6 minutes. WhOe the actual
+         vacuum was beyond the range allowed by Technical Specifications. the Reactor Building HVAC
+         system is designed to, among other things; maintain the reactor building during normal
+         operating at a negative pressure with respect to atmosphere to minimize the release of
+         airborne radioactive material. During emergency operation. the SGT system maintains the
+         reactor building at a negative pressure. During each of the events described in this LER at
+         least one train of SGT was In standby condHion and available to restore the reactor
+         building to a vacuum above the T8 required value of 0.25 inwg. An engineering safety
+         function analysis was performed which demonstrated that the ability for SGT to achieve
+         secondary containment vacuum to above 0.25 inwg. credited In the accident response
+         analysis, could have been attaJned using either of the two available trains of the SGT
+         system at the time of each of the events, thus there were no potential safety consequences.
+         There was no actual safety consequence associated with this event sk\ce no event Involving
+         radiological hazards were experienced during the event. NEI 99-02 allows the licensee to
+         perfonn an engineering analysis to determine if the event is reportable as a SSFF
+         petformance indicator occurrence. The engineering analysis has shown that these events did
+         not result in a SSFF; therefore this event does not affect the NRC Regulatory Oversight
+         Process Indicators.</safetyConsequences>
+   </narrative>
+</ler>

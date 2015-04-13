@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2012-07-24" id="3972012003">
+   <abstract>On July 24, 2012, secondary containment pressure exceeded technical specification
+      allowable limits for a period of approximately four and a half minutes. The pressure excursion
+      was due to an inadvertent trip of reactor building fans ROA-FN-1 Band REA-FN-1 B. The trip
+      occurred during ongoing maintenance on the Standby Gas Treatment (SGT) system. While technical
+      specification limits were exceeded, the resulting pressure excursion was bounded by analytical
+      results, and thus there were no safety consequences for this event. The investigation
+      concluded that there was no direct ~vidence that a human performance error caused this event.
+      The cause for the event was determined to be that operations does not have guidance on
+      swapping to redundant lineups when work is to be performed on the SGT or reactor building HVAC
+      . Corrective actions will revise standard operating procedures and Instrument Master Data
+      Sheets by adding a note about reactor building fan trip risk.</abstract>
+   <narrative>
+      <plantConds>
+         <P>At the time of event, the plant was operating in Mode 1 at 100% power. There were no
+            structures, systems or components that were inoperable at the start of the event that
+            contributed to the event. SGT Train B was out of service for planned maintenance and
+            work performed as part of the maintenance contributed to the initiation of this event.
+         </P>
+      </plantConds>
+      <eventDesc>
+         <P>On July 24, 2012, at 11 :22, the main control Room received both OIV 1 and OIV 2 RB HVAC
+            board R trouble alarms indicating high secondary containment pressure and that both
+            reactor building fans were off. In response to the alarms, operations started ROA-FN-1A
+            and REA-FN-1A to recover reactor building ventilation. Plant data shows that for
+            approximately 4 and a half minutes the secondary containment vacuum was less than -0.25
+            inches water vacuum. </P>
+
+         <P>The fans were noted to have tripped during maintenance on Standby Gas Treatment (SGT)
+            system with alarms coming in shortly after reconnecting leads to a portion of the SGT
+            system. No deficient maintenance practices were identified however it is possible that
+            the work being performed caused the fans to trip. </P>
+
+         <P>This event is reportable as an event that could have prevented fulfillment of a safety
+            function needed to control the release of radiation and mitigate the consequences of an
+            accident per 1 OCFR50. 73(a)(2)(v)(C) and 10CFR50.73(a)(2)(v)(O). An 8 hour event
+            notification (48131) was previously made to the NRC based on meeting the reporting
+            criteria of 10CFR50.72(b)(3)(v)(C) and 10CFR50.72(b)(3)(v)(O). </P>
+      </eventDesc>
+      <extentConds>
+         <P>Extent of condition is limited to the SGT system since it is the only safety related
+            cross divisional system at Columbia. Normal maintenance work control practices ensure
+            operability and functionality is maintained by components out of scope of the division
+            being worked on. The preventive maintenance work orders for both A and B SGT loop
+            calibrations have been revised to provide information that the ROA/REA fans need to be
+            lined up on the correct division to eliminate future trips. </P>
+      </extentConds>
+      <correctiveAction>
+
+         <P>Maintenance planning revised all SGT preventive maintenance tasks, to ensure SGT loop
+            logiC and ROA/REA fan trip logic conflicts are clearly defined. </P>
+      </correctiveAction>
+      <eventCause>
+
+         <P>The cause of the trip was that work control does not have guidance on swapping to
+            redundant lineups when taking systems out of service. </P>
+      </eventCause>
+      <previousEvents>
+         <P>Searches in the INPO database and the Energy Northwest Corrective Action Program were
+            not able to identify related issues or previous occurrences of this event. No specific
+            internal or external related operating experience could be found that related to this
+            issue. As a result of the searches performed there were no missed opportunities
+            identified that could have prevented the event. </P>
+      </previousEvents>
+      <correctiveAction>
+         <P>operations work control rocedures will be revised to ensure that 0 erations reviews
+            redundant lineups when work is to be performed on SGT or Reactor building fan. In
+            addition, the Instrument Master Data Sheet for SGT is being revised to add a note about
+            reactor building fan trip risk. An Operations support task and a note on all maintenance
+            work orders related to SGT/RBHVAC work that will ensure a swap occurs to the alternate
+            ROA/REA fans prior to commencing work are being added.</P>
+      </correctiveAction>
+      <safetyConsequences>This event resulted in an unplanned entry into TS 3.6.4.1 condition A.
+         Secondary containment pressure was more than -0.25 inches water gauge for approximately
+         four and a half minutes. The peak pressure was 0.06 inches water gauge. While the actual
+         pressure is beyond the range allowed by technical specifications, the purpose of
+         maintaining slight vacuum is to assist in drawdown of secondary containment to support
+         accident response of the SGT system. Existing engineering analysis demonstrates that for
+         this event, the drawdown credited in accident response could have been attained using the
+         operational A train of SGT, thus there were no potential safety consequences. There were no
+         actual safety consequences associated with this event since no events involving
+         radiological hazards were experienced during the work activities.</safetyConsequences>
+   </narrative>
+</ler>

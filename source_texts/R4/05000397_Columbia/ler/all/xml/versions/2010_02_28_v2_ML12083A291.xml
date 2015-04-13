@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ler when="2010-02-28" id="3972012001">
+   <abstract>On February 28, 2010, following investigations of a small amount of oil found in the
+      vicinity of the division 3 emergency diesel generator (OG-3) electro-hydraulic type governor
+      (governor), OG-3 was being operated to validate no oil leakage from the governor. OG-3 started
+      experiencing load oscillations of approximately 300 kW after 45 minutes of full load
+      operation. Subsequent investigative actions revealed the load instabilities were present in
+      all modes of operation (idle, rated speed, and fully loaded) which indicated a governor
+      control problem. Following troubleshooting, the OG-3 governor was replaced. OG-3 testing was
+      completed and was returned to service on March 4, 2010. The direct cause of the event was
+      determined to be the result of foreign material left in the governor as early as 2005. The
+      root cause of the event was organizational decision making did not adequately consider long
+      term risks and consequences associated with operating the governor with known foreign material
+      intrusion. Contributing factors included wear due to aging, flushing the governor with fuel
+      oil, and overfilling the governor.</abstract>
+   <narrative>
+      <plantConds>Columbia Generating Station (CGS) was operating in Mode 1 at 100% power. There
+         were no structures, systems, or components that were inoperable at the start of this event
+         and that contributed to this event.</plantConds>
+      <eventDesc>On February 28,2010, following investigations of a small amount of oil found in the
+         vicinity of the division 3 e~ergency diesel generator (OG-3) lOG] electro-hydraulic type
+         governor (governor) [65], OG-3 was being operated to validate no oil leakage from the
+         governor. ' OG-3 started experiencing load oscillations of approximately 300 kW after 45
+         minutes of full load operation. Subsequent investigative actions revealed the load
+         instabilities were present in all modes of operation (idle, rated speed, and fully loaded)
+         which indicated a governor control problem. Following troubleshooting, the governor was
+         replaced. OG-3 completed testing and was returned to service on March 4, 2010. The forensiG
+         investigation of the removed governor revealed a large amount of foreign material
+         throughout. Prior to disassembly, the oil was drained from the governor and evidence of oil
+         product breakdown and fuel oil contamination was found. There were small pieces of terminal
+         strip material (blue in color) found throughout the governor that came from a larger piece
+         that fell into the governor in 2005. Although the blue material was identified as a major
+         contributor to the load oscillations by the forensic investigation vendor, other factors
+         such as wear from aging, flushing the governor with fuel oil, and overfilling the governor
+         could also have contributed to the failure. On October 14, 2005, during the repair of a
+         failed shutdown solenoid [SOL], a vendor broke a terminal strip which resulted in a broken
+         piece approximately 1/8&quot; by 3/16&quot; falling into the governor. The governor was
+         flushed with fuel oil in an effort to retrieve the piece of broken strip; however, the
+         piece was not found nor recovered. OG-3 was returned to service on October 15, 2005
+         following satisfactory completion of the monthly surveillance. The justification for
+         continued operation with the foreign material assumed that the softness and the physical
+         size of the material would not adversely impact the ability of the governor to maintain
+         OG-3 engine speed at a specified value. In addition, the foreign material was heavier than
+         the oil and was assumed to sink to the bottom of the oil reservoir. No load oscillations
+         were observed in OG-3 during subsequent surveillance runs prior to the February 28, 2010
+         post maintenance test event. Total run time on OG-3 from the last biennial 24 hour
+         surveillance run on May 21,2008 until the load oscillation event on February 28, 2010 was
+         approximately 78 hours. An evaluation was performed to assess OG-'3' operability status
+         from May 21, 2008 to February 28, 2010. Based on the results of the evaluation, which
+         utilized Probabilistic Risk Assessment methods, it is postulated that OG-3 would not have
+         been able to fulfill its design function during a 24 hour run for portions of the timeframe
+         from September 10, 2009 through February 28, 2010. As such, OG-3 would have been inoperable
+         during the portions of the timeframe stated in the evaluation. Technical Specifications
+         (TS) 3.8.1, Condition B requires an inoperable OG to be restored to operable status within
+         14 days, otherwise Condition F requires the unit to be in Mode 3 within 12 hours and Mode 4
+         within 36 hours. Consequently, the condition of CGS not in compliance with Condition F is a
+         condition prohibited by TS and reportable to the NRC in accordance with 10 CFR
+         50.73(a)(2)(i)(B). Immediate Corrective Actions OG-3 was declared inoperable on February
+         28, 2010, the governor was replaced on March 2, 2010, surveillance testing was completed,
+         and OG-3 was declared operable on March 4, 2010.</eventDesc>
+      <eventCause> Causes The direct cause of the event was due to foreign material left in the
+         governor as early as 2005. The root cause of the event was organizational decision making
+         did not adequately consider long term risks and consequences associated with operating the
+         governor with known foreign material intrusion. Contributing causes included wear due to
+         aging, flushing the governor with fuel oil, and overfilling the governor.</eventCause>
+      <correctiveActions>Further corrective actions included strengthening foreign material
+         intrusion actions in operability determinations and maintenance procedures and providing
+         training on lessons learned to the management committee responsible for station health
+         issues.</correctiveActions>
+      <safetyConsequences>There were no actual safety consequences as a result of this condition.
+         Critical electrical bus SM-4 [BU] is normally energized from Normal Auxiliary transformer
+         TR-N1 [XFMR] thru non-critical bus SM-2 when the main generator [GEN] is operating and from
+         Startup Auxiliary transformer TR-S thru SM-2 when the main generator is not operating. OG-3
+         provides emergency power to SM-4. SM-4 was available and powered by either TR-N1 or TR-S
+         throughout the time frame OG-3 was postulated to be inoperable.</safetyConsequences>
+      <previousEvents>A search of CGS Licensee Event Reports and the Corrective Action Program for
+         the last 10 years found no other instances where load oscillations were observed on an
+         emergency diesel generator due to a failed governor. </previousEvents>
+   </narrative>
+</ler>

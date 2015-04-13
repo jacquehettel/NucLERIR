@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2011-06-28" id="3972011001">
+   <abstract>
+         <P>On June 28, 2011, while the plant was in Mode 5 for refueling outage R20, Columbia
+            Generating Station (Columbia) failed to enter a required Technical Specifications (TS)
+            Action Statement while performing control rod exercises. During stroke time testing,
+            control rod 34-47 displayed an erroneous indication. Upon initial withdrawal, the four
+            rod display showed an alternating indication of &quot;XX&quot; (meaning the reed switch
+            was not open during movement) and &quot;00&quot; (full in indication) requiring the
+            position indication to be declared inoperable per TS 3.9.4. Control rod 34-47 was
+            subsequently fully inserted and testing resumed on other rods contrary to the required
+            action statement of TS 3.9.4. Upon discovery of the noncompliance, the TS required
+            actions were subsequently performed and the failed reed switch replaced. The Control
+            Room Supervisor and Shift Manager did not verify the required action statements
+            specified in the TS and Bases as required. This was determined to be the apparent cause.
+            A contributing cause included not performing all of the required steps in the procedure
+            for control rod stroke time testing. Columbia has had no previous occurrences of a
+            failure to enter the required action statement of TS 3.9.4. </P>
+   </abstract>
+   <narrative>
+      <plantConds>The plant was operating in Mode 5 at 0% power.</plantConds> 
+         <eventDesc>On June 28, 2011, during the performance of control rod [ROD] stroke
+                  time testing, control rod 34-47 was given a continuous withdrawal signal. The
+                  Reactor Operator (RO) at the controls immediately noticed the four rod display
+                  initially indicated blank, as expected, then began alternating displays between
+                  &quot;00&quot; and &quot;XX&quot;. It was noted that the green ''full in&quot;
+                  light cleared. The RO stopped the rod withdrawal and the display then indicated
+                  &quot;XX&quot; with the ''full in&quot; light still extinguished. The RO
+                  subsequently inserted the control rod to position &quot;00&quot; and its ''full
+                  in&quot; light was re-energized. The Control Room Supervisor (CRS) consulted the
+                  System Engineer and the Station Nuclear Engineer who indicated that that the
+                  failure was most likely due to the &quot;00&quot; reed switch being stuck closed.
+                  The crew continued with stroke timing achieving an additional full out / full in
+                  cycle on the next control rod. A work request was written to replace the rod
+                  position indication system (RPIS) probe containing the stuck reed switch on
+                  control rod 34-47. On June 29,2011, after review of the control rod exercises
+                  performed the previous day, it was determined that the ''full in&quot; position
+                  indication channel for control rod 34-47 was inoperable based on not meeting the
+                  requirements of TS SR 3.9.4.1. Since the control rod position indication channel
+                  was not declared inoperable and the required actions were not taken before
+                  movement of another rod, the station was in non-compliance with Technical
+                  Specification Action Statement (TSAS) 3.9.4.A while performing the additional
+                  control rod stroke timing following the initial encounter with the indication
+                  problems. Immediate Corrective Actions Upon discovery of the TS violation,
+                  Columbia entered TSAS 3.9.4.A for control rod 34-47 due to the erroneous
+                  indication during stroke timing. Control room staff performed the required actions
+                  to verify no in-vessel fuel movement, stop all control rod withdrawal and verify
+                  all control rods are full in. In addition, the control rod drive (CRD) [AA] for
+                  rod 34-47 was disarmed. A condition report was written documenting the failure to
+                  comply with TS Limiting Condition of Operation (LCO) 3.9.4. The responsible CRS
+                  and RO were removed from standing watch in the control room. Causes The CRS and SM
+                  did not verify and validate the control rod position indication surveillance
+                  requirements by reviewing the TS and Bases prior to proceeding with rod movement.
+                  A review of the TS and Bases is required prior to authorizing surveillance
+                  procedures and other maintenance and clearance order activities in accordance with
+                  Operations Department instructions. Failure to meet the requirement to review the
+                  TS and Bases was determined to be the apparent cause. In addition, the RO
+                  performing the stroke time testing did not complete the last two steps in the
+                  associated procedure for stroke time testing. This presented a missed opportunity
+                  for the crew to discuss the control rod position indication and address the TS
+                  requirements indicated by the uncompleted procedure steps. This was identified as
+                  a contributing cause to this event.</eventDesc>
+         <correctiveActions>The following corrective actions are planned
+                  or have been completed: • Provided remediation training for the on-duty RO and CRS
+                  to address inadequate verification of required TS. (Completed) • Developed
+                  training for licensed operators concerning shutdown TS. (In Progress) • Reinforced
+                  expectations for TS implementation and verification through a night order.
+                  (Completed) • Replaced the control rod RPIS probe for control rod 34-47.
+                  (Completed)</correctiveActions> 
+                  <safetyConsequences>The full-in position indication
+                  channel is required to be operable so that the refueling interlocks can ensure
+                  that fuel cannot be loaded with any control rod withdrawn and that no more than
+                  one control rod can be withdrawn at a time. These restrictions prevent inadvertent
+                  criticality during refueling operations. At the time that the rod position
+                  indication failed to meet the TS surveillance requirements, Columbia was not
+                  moving fuel, only one control rod was being withdrawn, and all other control rods
+                  were fully inserted. There was no potential for an inadvertent criticality. The
+                  plant remained within the assumptions of the safety analysis at all times.
+                  Withdrawal of control rod 34-47 was suspended and the rod was fully inserted prior
+                  to movement of another rod. This event was of low safety consequence.</safetyConsequences> 
+                  <previousEvents>A search of the last ten years of Columbia's condition reports and LERs
+                  showed no previous occurrences of a failure to enter the required action statement
+                  of TS 3.9.4. However, there have been four similar events in which other TS and
+                  their bases were not verified prior to performance of an evolution that resulted
+                  in a TS not being met at Columbia within the last ten years. These incidences are
+                  documented in LERs 2001-001-00, 2003-004-00, and 2004-001-00. Energy Industry
+                  Identification System (EllS) Information EllS codes are bracketed [ ] where
+                  applicable in the narrative.</previousEvents>
+   </narrative>
+</ler>
+      

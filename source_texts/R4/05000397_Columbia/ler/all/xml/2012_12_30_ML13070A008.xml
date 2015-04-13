@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2012-12-30" id="3972012007">
+   <abstract>On December 30, 2012, Columbia was operating at 100% power with all safety systems
+      operable. At 0530 PST both doors of the 471 elevation airlock entrance of the Reactor Building
+      were simultaneously opened for a short period of time. This was the result of the failure of
+      the interlock between the outer security door R-204, and the inner door R-205. Having a
+      condition where both doors in a Reactor Building airlock were opened simultaneously while not
+      undergoing a planned evolution for maintenance or surveillance testing, results in an
+      unintended entry into Technical Specification (TS) 3.6.4.1 Secondary Containment due to a
+      failure to satisfy Surveillance Requirement (SR) 3.6.4.1.3. It was determined that this
+      condition resulted in a loss of safety function (Secondary Containment) and was reported to
+      the NRC (Event Notification 48639) at 1245 PST on December 30,2012.</abstract>
+   <narrative>
+      <plantConds>Columbia was operating at 100% power with all safety systems operable when this
+         event occurred.</plantConds>
+      <eventDesc>On December 30, 2012, at 0530 PST both doors [EllS: DR] of the 471 elevation
+         airlock [EllS: AL] entrance of the Reactor Building [EllS: NG] were simultaneously opened
+         for a short period of time. This was the result of the failure of the interlock [EllS:
+         IMEC] between the outer security door R-204, and the inner door R-205. The interlock's
+         mechanical bolt on the outer security door failed to engage allowing the outer security
+         door to be opened when the inner door was already open. A security officer and an equipment
+         operator were involved. They immediately realized the problem, quickly shut the doors, and
+         contacted the main control room. Both doors were simultaneously open for only a few
+         seconds. Having a condition where both doors in a Reactor Building airlock were opened
+         simultaneously while not undergoing a planned evolution for maintenance or surveillance
+         testing, results in an unintended entry into Technical Specification (TS) 3.6.4.1 Secondary
+         Containment due to a failure to satisfy Surveillance Requirement SR 3.6.4.1.3. SR 3.6.4.1.3
+         requires verification that each secondary containment access inner door or each secondary
+         containment access outer door in each access opening is closed. It was determined that this
+         condition resulted in a loss of safety function (Secondary Containment) and was reported to
+         the NRC (Event Notification 48639) at 1245 PST on December 30, 2012. The reactor building
+         is maintained at a negative pressure to minimize potential leakage of radioactivity to the
+         environment. During normal operations, the reactor building ventilation system maintains
+         this negative pressure. During a design basis accident, the Standby Gas Treatment System
+         [EllS: BH] maintains this negative pressure. This brief opening of the doors had no
+         measurable impact on the reactor building pressure indication.</eventDesc>
+      <correctiveAction>Access through the airlock was restricted by locking the outer security door
+         (R-204) until repairs could be made. The interlock mechanism was repaired the following
+         day.</correctiveAction>
+      <eventCause>root cause evaluation of the issue determined that there were two root causes.
+         First Root Cause (RC1 ): A legacy design weakness for the Secondary Containment airlock
+         door interlocks allows conditions where both the inner and outer doors can be opened at the
+         same time. Second Root Cause (RC2): Implementation of TSTF-18-A, Rev 1, at Columbia
+         (November 1998) changed the wording of TS SR Bases 3.6.4.1.2 and SR 3.6.4.1.3, reducing the
+         clarity of the description of conditions that define Secondary Containment
+         operability.</eventCause>
+      <correctiveAction>1. Evaluate potential alternatives, then process and implement a design
+         change which results in a more reliable door lockin device, im rove the interlock 10 ic to
+         eliminate current desi n im erfections, and provide warning to personnel outside the
+         airlock when the airlock is in use. 2. Revise Technical Specification bases for SR
+         3.6.4.1.2 and SR 3.6.4.1.3 to ensure that the wording clearly identifies that Secondary
+         Containment operability requires that one door in each airlock be closed at all times when
+         Secondary Containment is required.</correctiveAction>
+      <safetyConsequences>There was no equipment damage, injuries or dose exposure to station
+         personnel. There was no change in plant status or operating condition and there was no
+         actual risk to the public at any time. There was no impact to public health and safety as
+         the Primary Containment was intact, and Secondary Containment ventilation system maintained
+         the designed negative pressure inside the Reactor Building during the event. There was a
+         potential significance if there had been an event where the Primary Containment was
+         breached concurrent with a loss of coolant accident or a fuel handing accident such that
+         radioactive materials were released to the Reactor Building. Having both Reactor Building
+         airlock doors open would potentially provide a release path for radioactive materials to
+         enter the external environment.</safetyConsequences>
+      <previousEvents>A review of various databases at Columbia found a total of 40 similar events
+         dating back to 1995. Not all of these events resulted in a loss of Secondary Containment.
+         Some of these events occurred during a Mode in which Secondary Containment was not required
+         to be operable. Some were an interlock failure only and both doors were not opened
+         simultaneously. A review of the NRC Event Notification database found the following similar
+         events: • Event Notification 45975, 6/3/10 at Monticello • Event Notification 46155, 8/5/10
+         at Monticello • Event Notification 46394, 11/4/10 at Monticello • Event Notification 48282,
+         9/6/12 at Quad Cities • Event Notification 48295, 9/10/12 at Cooper </previousEvents>
+   </narrative>
+</ler>

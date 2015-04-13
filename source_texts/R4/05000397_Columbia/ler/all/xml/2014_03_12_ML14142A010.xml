@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2014-03-12" id="3972014003">
+   <abstract> On March 12. 2014, it was Identified that three manhole covers (E10, E11, and E 15)
+      for vaults containing 4160 vott electric cables were missing the hold down bolts. The hold
+      down bolts are required as part of the tornado missile barrier for the manhole cover for the
+      underground electric vault. It was later determined that the hold down bolts for manhole cover
+      E11 (Division 2 Service Water) had been identified as missing since September 6, 2013. When
+      the bolts were identified as missing on September 6. 2013. the manhole cover and bolts were
+      not recognized as a tornado missile barrier: because this information was not availabfe in
+      routinely used databases and procedures. No Compensatory action was taken until March 12,2014.
+      when large concrete blocks were placed on top of the manholes to prevent the covers from
+      potential removal In the event of a tornado. The degraded miSsile barrier is considered to
+      have rendered the Division 2 Service Water system Inoperable from September 6. 2013. to March
+      12. 2014. This Is reportable as a condition prohibited by Technical SpecIfIcations.</abstract>
+   <narrative>
+      <plantConds>Columbia was operating at 100% power. There were no Inoperable plant systems at
+         the time of discovery that contributed to this event.</plantConds>
+      <eventDescription>On March 12. 2014, it was identified that three manhole covers (E10, E11,
+         and E 15) for vautts containing 4160 volt electric cables [Cell were missing the hold down
+         botts. The electric cables in vautts E10 and E11 support the Division 2 Service Water [BI}
+         system. The electric cables in vaults E15 support the Division 3 Service Water system. The
+         hold down bofts are required as part of the tornado missile barrier for the manhole cover
+         for the underground electric vault. It was later determined that the hold down bofts for
+         manhole cover E11 (Division 2 Service Water) had been Identified as missing in two
+         condition reports on September 6. 2013. and again on December 3, 2013. When Operations
+         performed an immediate operability determination for the September and December 2013
+         condition reports, the manhofe cover and bofts were not recognized as a tornado missile
+         barrier; therefore. no compensatory actton was taken until March 12, 2014. The degraded
+         missile barrier is considered to have rendered the Division 2 Service Water system
+         Inoperable from September 6,2013. to March 12,2014. This is reportable as a condition
+         prohibited by Technical Specifications.</eventDescription>
+      <correctiveAction>It was verified through the Weather Service that no tornados were predicted
+         for our area In the next 24 hours. Large concrete blocks were placed over the manhole
+         covers on March 12. 2014. to prevent the cover from lifting In the event of a tornado. The
+         Information fields in the master equipment list for the applicable manhole covers were
+         completed Identifying them as a tornado missile barrier.</correctiveAction>
+      <eventCause>The Information In this section Is based on the preliminary results of a root
+         cause evaluation. If any significant changes In the cause or corrective actions are rna'in
+         the final evaluation, a suppJement will be submitted for this report. The direct cause for
+         the missing hold down bolts was not determined. The root cause of the faHure to recognize
+         the manhole cover as a tornado barrier was that station procedures that Implement the
+         process to establish quality classifications for safety-retated systems. structures. and
+         components (SSCs) did not ensure accurate Information was available In a timely manner for
+         these components. There are multiple methods available for determining the safety
+         significance of a degraded component; however, the computerized master equipment list is
+         typically the preferred method. The equipment plant numbers (EPNs) for the manhole covers
+         had been entered into master equipment list in 2012. but no action was taken to complete
+         the remaining data fields for the components to identify that the manhole covers fulfHled a
+         tornado barrier function, and have the information verified and approved. The master
+         equipment list that station personnel used identified these manhole covers as
+         nonsafety-retated. In the immediate operability determination process for the two Condition
+         Reports in 2013, Operations personnel did not have information readity available to them to
+         determine that the manhole cover was a tornado missile barrier. Most plant personnel,
+         including Operations, did not recognize that the information In the computer master
+         equipment list for the manhole covers was not at an approved status and should not be used.
+         The manhole covers did not have any label indicating that It was a tornado missile barrier.
+         Plant drawings did not identify the manhole covers 88 tornado missile barriers.
+         Additionally, the station barrier Impairment procedure did not list the manhole covers as a
+         tornado missile barrier.</eventCause>
+      <correctiveAction>Work requests were inmated to repair/replace the missing bolts for the
+         manhole covers. Revise Engineering procedures to provide clear direction to establISh
+         Quality Classifications for safety-related SSCs within the Master Equipment List within a
+         specific time frame. Ensure that procedures Include timeliness requirements for
+         establishing and upgrading/downgrading EPNs for Installed plant equipment. Appfy a marking
+         on the manhole covers that identify these covers as a tornado missile barrier. Revise the
+         station barrier Impairment procedure to identify manhole covers as a tornado missile
+         barrier.</correctiveAction>
+      <safetyConsequences>No actual tornados occurred during the time of interest. The Division 2
+         Service Water system remained capable of fulfilling its safety function during this time
+         period. AdditionaUy. at least one other division of Service Water was available during this
+         time period (September 6,2013 to March 12, 2014) to be abfe to fulfill the safety function;
+         therefore, the actual safety consequence of this Issue was minimal.</safetyConsequences>
+      <previousEvents>There have been no similar events at Columbia Generating Station In the last
+         three years.</previousEvents>
+   </narrative>
+</ler>

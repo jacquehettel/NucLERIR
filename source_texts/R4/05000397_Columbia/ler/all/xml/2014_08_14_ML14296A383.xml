@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ler when="2014-08-14" id="3972014004">
+   <abstract>On August 14, 2014 it was discovered that Columbia Generating Station's
+               (Columbia) method of complying with Technical Specification (TS) Surveillance
+               Requirement (SR) 3.7.1.1 for Ultimate Heat Sink (UHS) spray pond level was
+               inadequate. The SR requires level in each spray pond to be verified to be greater
+               than or equal to the minimum water level whereas procedures allowed for an arithmetic
+               average of the two ponds to be taken when a single Service Water (SW) pump is in
+               operation which creates a differential between the pond levels. The two spray ponds
+               that make up Columbia's UHS are connected by a siphon line to allow water to be
+               shared between the two ponds. Columbia's original TS did not specify that a minimum
+               water level be checked in each pond and a procedural note was added to clarify
+               compliance with the TS SR during single SW pump operation. When Columbia upgraded the
+               TSs in 1997 the word 'each' was introduced to the TS. Corrective actions inclu.cIe a
+               TS amendment submitted to the NRC on August 22, 2014.</abstract>
+   <narrative>
+      <plantConds>
+      <P>At the time of the event the plant was operating in Mode 1 at 100% power.
+         This event documents an administrative issue with TS compliance, therefore no structures,
+         systems, or components were inoperable that contributed to this event. </P></plantConds>
+      <eventDesc>
+      <P>On August 14. 2014 It was discovered that Columbia Generating Station's
+         (Columbia) method of complying with Technical Specification (TS) Surveillance Requirement
+         (SR) 3.7.1.1 for Ultimate Heat Sink (UHS) [as) spray pond level was Inadequate. </P>
+
+      <P>Columbia's UHS consists of two concrete spray ponds. These spray ponds provide suction and
+         discharge points for the redundant pumping and spray facilities of the Service Water (SW)
+         [BI) system. SW loop A draws water from pond A and discharges through a spray ring into
+         pond afor heat diSSipation. Similarly. SW loop a draws water from pond B and discharges
+         through a spray ring into pond A. The water then retums to the initial pond through a
+         siphon line. During operation with one SW pump running, a differential level develops
+         between the ponds until flow through the siphon line equalizes with the running SW pump.
+         The spray ponds remain with this differential level until the running pump is stopped and
+         flow through the siphon line equalizes the spray pond levels. The ponds were licensed such
+         that the combined water volume of the spray ponds is adequate to provide cooling water for
+         30 days of operation. assuming maximum evaporation and drift losses. </P>
+
+      <P>Prior to implementation of improved TS (ITS) in June of 1997. there were separate TS for 5W
+         and UH5. The UH5 T5 contained a SR to verify the UH8 water level was within its limit of
+         432 ft 9 inches mean sea level at a frequency of 24 hours. The operations surveillance
+         procedure contained a note to take an arithmetic average of the spray pond levels if only
+         one loop of SW was in operation. In March 1997, Columbia received license amendment 149 for
+         ITS with a full Implementation date of June 30. 1997. The ITS combined-the 8W and UHS into
+         one TS. The UHS water level surveillance requirement was changed to require the level in
+         ~spray pond to be within the limit of 432 ft 9 inches. Due to the design of the spray ponds
+         and 8W system. it is difficult to meet this requirement in each pond when only one SW pump
+         is In operation. </P>
+
+      <P>This discrepancy between the new T5 SR and how it is implemented in operations surveillance
+         procedures was identified in 1997 and license document changes were initiated to change the
+         TS SR and the T8 Bases to allow for an arithmetic average of the two ponds when a single
+         pump is in operation. The T8 Bases change was processed; however the T8 SA change was not
+         completed. The reason why the TS SR wasn't completed and submitted to the NRC for approval
+         Is undocumented and unknown. </P></eventDesc>
+      <eventCause>
+
+         <P>The cause of this event is that although it was recognized In 1997 that Columbia was out
+            of verbatim compliance with TS SA 3.7.1.1. Columbia's licensing document change process
+            in 1997 allowed for changes to the TS SA and T8 Bases to be processed separately. This
+            allowed the TS Bases change to be implemented while the TS SR change was never completed
+            or approved by the NRC. </P>
+      
+               <P>An extent of condition review determined that there
+                  have been multiple Instances when SW would need to be declared inoperable based on
+                  spray pond level as it is common practice to operate individual service water
+                  pumps based on plant needs. The 12 hour Limiting Conditions for Operation per TS
+                  3.7.1 was exceeded on August 13, 2014 with additional occurrences since
+                  implementation of the ITS on June 30, 1997. Immediate Corrective Action Once it
+                  was discovered that the operations procedure was not compliant with the T8 SR all
+                  oncoming operations crews were briefed on the correct implementation of the TS SR.
+                  Guidance was also given to start both SW pumps if one is required to run. The
+                  operations surveillance procedure was also updated to remove the wording which
+                  allowed for the arithmetic average of the two ponds when a single pump is in
+                  operation. Columbia has submitted a TS change to the NRC to allow verification
+                  that the average water level in the UHS spray ponds is within the limit. The
+                  licensing change process is being updated to ensure processing of TS SR changes
+                  with TS Bases changes if related.</P>
+      </eventCause>
+                  
+                  <previousEvents>
+                  No previous occurrences have been found to have the same cause of a license
+                  amendment change not processed. One event reported under LER-12-004-02 was a
+                  failure to enter a TS action statement due to conflicting information between the
+                  associated TS Bases and the surveiHance procedure. Corrective actions focused on
+                  operability determinations for equipment removed from service. It also included a
+                  focused selfassessment to review TS Bases and TS SRs. The self-assessment did not
+                  Identify the discrepancy described in this LER, and therefore a re-review of the
+                  wor1&lt; performed by this individual Is being completed to ensure no other
+                  discrepancies between T8 SR, T8 Bases and Implementing procedures exist. Further
+                  Corrective Actlona A review of all TS Bases amendments was conducted to identify
+                  whether any other Licensing Document Changes were issued that introduced conflicts
+                  with the literal wording in the T8.</previousEvents> 
+                  
+                  <safetyConsequences>There were no actual safety consequences associated with this event as during periods of SW
+                  single loop operation when one pond level was below TS minimum the actual
+                  inventory of the UHS was unaffected. The combined Inventory between the two ponds
+                  remained above the licensed amount required to provide adequate cooling for 30
+                  days of operation.</safetyConsequences>
+   </narrative>
+</ler>

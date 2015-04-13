@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ler when="2012-08-22" id="3972012004">
+   <abstract>On August 22, 2012, it was discovered that during maintenance on breaker E-CB-S/1,
+      required Technical Specification (TS) 3.8.1 Condition A was not entered. The breaker provides
+      power to an essential bus from one of the credited offsite power sources. While E-CB-S/1 was
+      out of service, Columbia Generating Station (Columbia) would not have been able to meet
+      acceptance criteria in a surveillance procedure used to satisfy Surveillance Requirement (SR)
+      3.8.1.1. Therefore, per SR 3.0.1, failure to meet the surveillance requirement indicates that
+      Limiting Condition for Operation (LCO) 3.8.1 was not met. The breaker was inoperable for
+      approximately 30 hours, resulting in the failure to meet the Required Actions described in
+      Condition A and F within the specified Completion Times. The apparent cause was determined to
+      be a failure to follow station processes and procedures for determining operability.
+      Contributing causes included conflicting information between the associated TS Bases and
+      operations procedures that fulfill the requirements of TS SR 3.8.1.1</abstract>
+   <narrative>
+      <plantConds>Columbia Generating Station (Columbia) was operating in Mode 1 at 100% power.
+         There were no structures, systems, or components that were inoperable at the start of this
+         event and that contributed to this event.</plantConds>
+      <eventDesc>On August 22, 2012, it was discovered that during maintenance on breaker E-CB-S/1
+         [BKR], required Technical Specification (TS) Action Statement (TSAS) 3.8.1 Condition A was
+         not entered. The breaker provides power to the Division 1 critical electrical bus E-SM-7
+         [BU] from the credited offsite source, E-TR-S [XFMR]. It was discovered that while E-CB-S/1
+         was out of service, Columbia would not have been able to satisfy acceptance criteria in the
+         associated surveillance procedure used to satisfy Surveillance Requirement (SR) 3.8.1.1.
+         Therefore, per SR 3.0.1, failure to meet the surveillance requirement indicates that
+         Limiting Condition for Operation (LCO) 3.8.1 was not met. The breaker was inoperable for
+         approximately 30 hours, resulting in the failure to meet the Required Actions described in
+         TS 3.8.1 Condition A and F, within the specified Completion Times.</eventDesc>
+      <correctiveActions>Night orders were initiated notifying operations personnel of the issue and
+         the appropriate measures to take going forward when planning work with the associated
+         breakers. Specifically, any work which impacts the ability of E-TR-S to supply power to the
+         critical electrical bus for Division 1 or Division 2 will require entry into TS 3.8.1
+         Condition A. Causes The apparent cause was determined to be a failure to follow the process
+         for operability determination as stated in plant procedures, which require ensuring
+         equipment can meet its SA. Contributing causes included conflicting information between the
+         associated TS Bases and procedure that fulfills the requirements of TS SR 3.8.1.1 Further
+         Corrective Actions The following corrective actions are planned or have been completed: •
+         Develop methodology to be used by operations when making operability determinations for
+         equipment removed from service. • Enhance procedures concerning operability determinations
+         for equipment removed from service. • Initiate training requests to train operators on
+         methodology to be used when making operability determinations for equipment removed from
+         service. • Revise associated operations procedures based on TS Bases requirements. •
+         Develop a formal position for offsite power requirements. • Conduct a focused
+         self-assessment to ensure the adequacy of TS Bases and implementation of TS SRs. </correctiveActions>
+      <safetyConsequences>There were no actual safety consequences as a result of this condition.
+         Critical electrical buses E-SM-7 and E-SM-8 [BU] are normally energized from Normal
+         Auxiliary transformer, E-TR-N1 [XFMR], when the main generator [GEN] is
+         operating.</safetyConsequences>
+      <previousEvents>A search was performed for each time E-CB-S/1 was taken out of service in the
+         past three years. The associated work orders (WO) and control room logs were reviewed to
+         determine whether the duration the breaker was out of service exceeded the Completion Times
+         of TS 3.8.1 Conditions A and F. On two occasions separate from the event being reported in
+         this LER, E-CB-S/1 was taken out of service and the TS allowed outage time was exceeded.
+         These two other events occurred on 11/22/2010 and 8/31/2011. A similar search was performed
+         on E-CB-S/3 as it performs the same function as E-CB-S/1 , but on Division 2. On 3/28/2011
+         ECB-S/3 was taken out of service and the TS allowed outage time was exceeded. Enerqy
+         Industry Identification System (EllS) Information EllS information is denoted as [XX],
+         [XXX), or [XXX X] throughout the narrative.</previousEvents>
+   </narrative>
+</ler>

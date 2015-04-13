@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ler when="2012-08-22" id="3972012004">
+   <abstract>On August 22,2012, it was discovered that during maintenance on breaker E-C8-S/1,
+      required Technical Specification (TS) 3.8.1 Condition A was not entered. The breaker provides
+      power to an essential bus from one of the credited offsite power sources. While E-C8-S/1 was
+      out of service, Columbia Generating Station (Columbia) would not have been able to meet
+      acceptance criteria in a surveillance procedure used to satisfy Surveillance Requirement (SR)
+      3.8.1.1. Therefore, per SR 3.0.1, failure to meet the surveillance requirement indicates that
+      Limiting Condition for Operation (LCO) 3.8.1 was not met. The breaker was inoperable for
+      approximately 30 hours, resulting in the failure to meet the Required Actions described in
+      Condition A and F within the specified Completion Times. An apparent cause evaluation is
+      currently in progress. A supplemental LER is planned to add additional details concerning the
+      evaluation's conclusions and corrective actions. </abstract>
+   <narrative>
+
+      <plantConds>Columbia Generating Station (Columbia) was operating in Mode 1 at 100% power.
+         There were no structures, systems, or components that were inoperable at the start of this
+         event and that contributed to this event. </plantConds>
+      <eventDesc>On August 22, 2012, it was discovered that during maintenance on breaker E-CB-S/1
+         [BKR], required Technical Specification (TS) Action Statement (TSAS) 3.B.1 Condition A was
+         not entered. The breaker provides power to the Division 1 critical electrical bus E-SM-7
+         [BU] from the credited offsite source, E-TR-S [XFMR]. It was discovered that while E-CB-S/1
+         was out of service, Columbia would not have been able to satisfy acceptance criteria in the
+         associated surveillance procedure used to satisfy Surveillance Requirement (SR) 3.B.1.1.
+         Therefore, per SR 3.0.1, failure to meet the surveillance requirement indicates that
+         Limiting Condition for Operation (LCO) 3.B.1 was not met. The breaker was inoperable for
+         approximately 30 hours, resulting in the failure to meet the Required Actions described in
+         TS 3.B.1 Condition A and F, within the specified Completion Times. </eventDesc>
+      <correctiveActions>Night orders were initiated notifying operations personnel of the issue and
+         the appropriate measures to take going forward when planning work with the associated
+         breakers. Specifically, any work which impacts the ability of E-TR-S to supply power to the
+         critical electrical bus for Division 1 or Division 2 will require entry into TS 3.B.1
+         Condition A. </correctiveActions>
+      <eventCause>The apparent cause of the event has not been determined. The apparent cause
+         investigation is still in progress. A supplemental LER is planned to provide the additional
+         conclusions and details discovered in the evaluation. </eventCause>
+      <safetyConsequences>There were no actual safety consequences as a result of this condition.
+         Critical electrical buses E-SM-7 and E-SM-B [BU] are normally energized from Normal
+         Auxiliary transformer, E-TR-N1 [XFMR], when the main generator [GEN] is
+         operating.</safetyConsequences>
+      <previousEvents>A search was performed for each time E-CB-S/1 was taken out of service in the
+         past three years. The associated work orders (WO) and control room logs were reviewed to
+         determine whether the duration the breaker was out of service exceeded the Completion Times
+         of TS 3.B.1 Conditions A and F. On two separate occasions E-CB-S/1 was taken out of service
+         and the TS allowed outage time was exceeded. A similar search was performed on E-CB-S/3 as
+         it performs the same function as E-CB-S/1, but on Division 2. On one occasion E-CB~S/3 was
+         taken out of service and the TS allowed outage time was exceeded. </previousEvents>
+   </narrative>
+</ler>

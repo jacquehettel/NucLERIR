@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2013-01-07" id="3972013001">
+   <abstract>On January 7,2013, Columbia was operating at 100% power. At 1427 PST both doors of the
+      501 elevation airlock entrance of the Reactor Building were simultaneously opened for a short
+      period of time. This was the result of the failure of the interlock between the outer door
+      (R304), and the inner door (R305). Maintenance personnel were moving scaffolding through the
+      Reactor Building outer security door when an equipment operator opened the inner door to exit
+      the Reactor Building. This equipment operator immediately closed the inner door and contacted
+      the Main Control Room. The outer door was key locked closed until corrective actions could be
+      implemented. Having a condition where both doors in a Reactor Building airlock were opened
+      simultaneously while not undergoing a planned evolution for maintenance or surveillance
+      testing, results in an unintended entry into Technical Specification (TS) 3.6.4.1 Secondary
+      Containment due to a failure to satisfy Surveillance Requirement (SR) 3.6.4.1.3. It was
+      determined that this condition resulted in a loss of safety function (Secondary Containment)
+      and was reported to the NRC (Event Notification 48656) at 1629 PST on January 7,
+      2013.</abstract>
+   <narrative>
+      <plantConds>Columbia was operating at 100% power. Standby Gas Treatment (SGT) System
+         &quot;A&quot; was in an operability run following corrective maintenance on an electric
+         heater disconnect. This did not contribute to the event. </plantConds>
+      <eventDesc>On January 7,2013, at 1427 PST both doors [EllS: DR] of the 501 ft. elevation
+         airlock [EllS: AL] entrance of the Reactor Building [EllS: NG] were simultaneously opened
+         for a short period of time. This was the result of the failure of the interlock [EllS:
+         IMEG] between the outer door (R304), and the inner door (R305). Maintenance personnel were
+         moving scaffolding through the Reactor Building outer door when an equipment operator
+         opened the inner door to exit the Reactor Building. This equipment operator immediately
+         closed the inner door and contacted the Main Control Room. It was estimated that door was
+         only open for a few seconds. The outer door was key locked closed until corrective actions
+         could be implemented. Having a condition where both doors in a Reactor Building airlock
+         were opened simultaneously while not undergoing a planned evolution for maintenance or
+         surveillance testing, results in an unintended entry into Technical Specification (TS)
+         3.6.4.1 Secondary Containment Condition A due to a failure to satisfy Surveillance
+         Requirement (SR) 3.6.4.1.3. SR 3.6.4.1.3 requires verification that each secondary
+         containment access inner door or each secondary containment access outer door in each
+         access opening is closed. It was determined that this condition resulted in a loss of
+         safety function (Secondary Containment) and was reported to the NRC (Event Notification
+         48656) at 1629 PST on January 7, 2013. The reactor building is maintained at a negative
+         pressure to minimize potential leakage of radioactivity to the environment. During normal
+         operations, the Reactor Building Ventilation System maintains this negative pressure.
+         During a design basis accident, the Standby Gas Treatment System [EllS: BH] maintains this
+         negative pressure. This brief opening of the doors had no measurable impact on the Reactor
+         Building pressure.</eventDesc>
+
+      <correctiveAction>Access through the airlock was restricted by locking the outer door (R304)
+         until Reactor Building airlock inner door R305 was repaired. Access to and from the Reactor
+         Building was restricted to two airlock doors on the 441 ft. elevation. Personnel were
+         stationed at the doors to ensure Secondary Containment integrity was maintained. A
+         temporary modification was implemented installing warning lights on the outsides of both
+         airlock doors and a buzzer to alert station personnel when an individual is transiting the
+         airlock. The surveillance procedure for SR 3.6.4.1.3 was updated to verify proper operation
+         of airlock doors and interlocks without compromising Secondary
+         Containment.</correctiveAction>
+      <eventCause>A root cause evaluation of the issue determined that there were two root causes.
+         First Root Cause: A legacy design weakness for the Secondary Containment airlock door
+         interlocks allows conditions where both the inner and outer doors can be opened at the same
+         time. Second Root Cause: Implementation of TSTF-18-A, Rev 1, at Columbia changed the
+         wording of TS Bases for SR 3.6.4.1.2 and SR 3.6.4.1.3, reducing the clarity of the
+         description of conditions that define Secondary Containment operability.</eventCause>
+      <correctiveAction>A design change is being evaluated that includes replacing the existing
+         mechanical locks on all Secondary Containment airlock inner doors with a more reliable door
+         locking device, improving the interlock logic to eliminate current design imperfections,
+         and installing warning lights on the outside of the airlock to warn personal when the
+         airlock is in use. The TS Bases for SR 3.6.4.1.2 and SR 3.6.4.1.3 is being revised to
+         ensure that the wording clearly identifies that Secondary Containment operability requires
+         that one door in each airlock be closed at all times when Secondary Containment is
+         required.</correctiveAction>
+      <safetyConsequences>There was no equipment damage, injuries or dose exposure to station
+         personnel. There was no change in plant status or operating condition and there was no
+         actual risk to the public at any time. There was no impact to public health and safety as
+         the Primary Containment was intact with Primary Containment Isolation Valves operable. The
+         Reactor Building Ventilation System maintained the designed negative pressure for Secondary
+         Containment during the event. There was a potential significance if there had been an event
+         where the Primary Containment failed to isolate concurrent with a loss of coolant accident
+         such that radioactive materials were released to the Reactor Building. Having both Reactor
+         Building airlock doors open would potentially provide a release path for radioactive
+         materials to enter the external environment or would inhibit the ability to draw down
+         Secondary Containment within the time frame assumed in the dose
+         analysis.</safetyConsequences>
+      <previousEvents>A similar event occurred at Columbia on December 30, 2012 (Event Notification
+         48639) and reported in LER 2012-007 -00.</previousEvents>
+   </narrative>
+</ler>

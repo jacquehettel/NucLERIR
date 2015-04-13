@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ler when="2012-09-19" id="3972012006">
+   <abstract>On September 19, 2012, Energy Northwest (EN) identified that both divisions of Residual
+      Heat Removal (RHR) Shutdown Cooling (SOC) Reactor Vessel isolation valves were inappropriately
+      made inoperable at the same time on multiple occasions in support of maintenance and
+      surveillance testing during the 2011 refueling outage (R-20). This planned inoperability of
+      the SOC isolation valves was performed using procedure SOP-RHR-SDC-BYPASS. SOP-RHR-SDC-BYPASS
+      contains the specific steps for preventing the closure of each of the SOC isolation valves and
+      the subsequent restoration steps. SOP-RHR-SDC-BYPASS did not contain guidance to allow both
+      divisions SOC isolation valves to be inoperable at the same time. Since both divisions of SOC
+      isolation valves were made inoperable without procedural guidance, this is being reported as a
+      condition that could have prevented the fulfillment of the safety function of systems that are
+      needed to remove residual heat and to mitigate the consequences of an accident.</abstract>
+   <narrative>
+      <eventDesc>On September 19, 2012, Energy Northwest (EN) identified that both divisions of
+         Residual Heat Removal (RHR) Shutdown Cooling (SOC) [EllS: BO] Reactor Vessel isolation
+         valves [EllS: ISV] were inappropriately made inoperable at the same time on multiple
+         occasions in support of maintenance and surveillance testing during the 2011 refueling
+         outage (R-20). This issue was identified and entered into the Columbia Generating Station
+         (Columbia) corrective action program following review of the NRC Operating Experience Smart
+         Sample (OpESS) 2012/02, Revision 1. All required Technical Specification (TS) Conditions
+         for inoperable primary containment isolation valves were entered when the valves were made
+         inoperable, and compliance with TS Actions was maintained. No operations with a potential
+         to drain the reactor vessel were in progress. Columbia was in Mode 5 with the vessel
+         flooded up. During R-20, EN implemented a plant modification to change the Group 1
+         containment isolation valves [EllS: ISV] isolation signal of reactor water level from level
+         2 to level 1. The NRC granted permission for this change to TS in a letter dated August 18,
+         2009 (TAC NO. M09598). This planned inoperability of the SOC isolation valves, in support
+         of the maintenance and surveillance activities associated with the modification to change
+         the isolation signal from level 2 to level 1, was performed using procedure
+         SOP-RHR-SOC-BVPASS. SOP-RHR-SOC-BVPASS contains the specific steps for preventing the
+         closure of each of the SOC isolation valves and the subsequent restoration steps.
+         SOP-RHR-SOC-BVPASS did not contain guidance to allow both divisions of SOC isolation valves
+         to be inoperable at the same time. Since both divisions of the SOC isolation valves were
+         made inoperable and the approved procedure did not provide specific guidance for removal of
+         both divisions at the same time, this is being reported as a condition that could have
+         prevented the fulfillment of the safety function of systems that are needed to remove
+         residual heat and to mitigate the consequences of an accident. This condition is reportable
+         under 10 CFR 50.73(a)(2)(v)(B) and 50.73(a)(2)(v)(O).</eventDesc>
+      <extentConds>An extent of condition review was performed. In the last three years, both
+         divisions of RHR SOC isolation valves being inoperable at the same time was during R-20.
+         There were multiple instances in which this occurred in R-20. A similar issue occurs during
+         transfer of a Reactor Protection System bus. Both divisions of containment isolations
+         valves for RHR SOC and Reactor Water Cleanup [EllS: CE] are made inoperable.</extentConds>
+      <correctiveAction>No immediate corrective action was required.</correctiveAction>
+      <eventCause>Apparent Cause: The operating crews inappropriately de-energized both divisions of
+         RHR SOC isolation valves in the effort to minimize the potential for the loss of shutdown
+         cooling without adequate procedural guidance.</eventCause>
+      <previousEvents>This had not previously occurred at Columbia. A similar issue was discussed in
+         Operating Experience Smart Sample (OpESS) 2012/02, Revision 1.</previousEvents>
+      <correctiveActions>Training for Licensed Operators will be conducted on the requirement of TS
+         bases 3.0.2 for intentionally entering TS Actions as identified by the Performance
+         Analysis. Selected plant procedures will be revised to discuss &quot;Operational
+         Convenience&quot;.</correctiveActions>
+      <safetyConsequences>Each occurrence took place when the plant was in Mode 5 with the reactor
+         vessel in a flooded condition. No operations with a potential to drain the vessel were in
+         progress. The inoperability of the RHR SOC isolation valves was not due to equipment
+         failure. If a loss of reactor level was detected, the isolation valves could be quickly
+         restored to an operable condition. All required TS conditions were entered. Compliance with
+         all TS actions was maintained. There was no significant impact on safety
+         consequences.</safetyConsequences>
+   </narrative>
+</ler>
