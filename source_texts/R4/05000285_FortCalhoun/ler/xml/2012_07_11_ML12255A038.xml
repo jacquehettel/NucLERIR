@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2012-07-11" id="2852012014">
+   <abstract> On July 11, 2012, while performing the Extent of
+      Condition for an existing Condition Report (CR) it was determined that Beam B-22, a structural
+      member of the containment internal structure at the 1013 foot elevation, loading conditions
+      were outside the allowable limits for both Working Stress and No Loss of Function load
+      combinations as noted in the USAR Section 5.11. This condition was identified on July 11,
+      2011, while the unit was shutdown and reported to the U.S. Nuclear Regulatory Commission (NRC)
+      Headquarters Operations Center the same day at approximately 1603 CDT under Event Notification
+      Number 48094. A cause analysis is being evaluated and will be published in a supplement to
+      this LER.</abstract>
+   <narrative>
+      <background>Fort Calhoun Station (FCS) is a two-loop reactor coolant system of Combustion
+         Engineering (CE) design. Limiting Condition for Operation (LCO) 2.6 Containment System This
+         LCO does not contain a specification stating the requirements related to the containment
+         internal support structures. However, system such as the containment and safety injection
+         rely on the containment support structures integrity to be maintained under accident
+         conditions for each individual system to be OPEARABLE. Operable – Operability is defined in
+         the Technical Specifications (TS) as: A system, subsystem, train, component or device shall
+         be OPERABLE or have OPERABILITY when it is capable of performing its specified safety
+         function(s) and when all necessary attendant instrumentation, controls, normal or emergency
+         electrical power sources, cooling and seal water, lubrication, and other auxiliary
+         equipment that are required for the system, subsystem, train, component or device to
+         perform its specified safety functions(s) are also capable of performing their related
+         support function(s). The FCS Updated Safety Analysis Report (USAR), Section 5.11.3 Design
+         Criteria - Class I Structures, Sub-section, a. Loadings states in part: Class I structures
+         were designed on the basis of working stress for the following load combinations: S = D + L
+         S = D + L + W or E S = D + F where: S = Required section capacity D = Dead load L = Live
+         load, including hydrostatic load W = Wind load E = Design earthquake F = Hydrostatic load
+         to elevation 1007 feet The ACI Code 318-63 and the AISC Code for Structural Steel, 1963
+         edition, design methods and allowable stresses were used for reinforced concrete and steel
+         structures, respectively. The concrete structure within the containment was considered as a
+         Class I structure and was subject to the loads and analysis noted above with the exception
+         of wind and tornado loads. In addition, a transient analysis was made to determine the
+         maximum differential pressure across the interior shielding and structural walls and
+         floors. Openings in the interior concrete walls and floors are provided and grating floors
+         are used wherever possible, without reducing the necessary shielding, to allow
+         pressurization of all compartments with the minimal differential pressure across walls and
+         floors.</background>
+      <eventDesc>On July 11, 2012, while performing the Extent of Condition for an existing
+         Condition Report (CR) it was determined that Beam B-22, a structural member of the
+         containment internal structure at the 1013 foot elevation, loading conditions were outside
+         the allowable limits for both Working Stress and No Loss of Function load combinations as
+         noted in the USAR Section 5.11. This condition was identified on July 11, 2011, while the
+         unit was shutdown and reported to the U.S. Nuclear Regulatory Commission (NRC) Operations
+         Center the same day at approximately 1603 CDT under Event Notification Number 48094. This
+         condition is being submitted pursuant to: 10 CFR 50.73(a)(2)(ii)(B), Any event or
+         condition that resulted in the nuclear power plant being in an unanalyzed condition that
+         significantly degraded plant safety. 10 CFR 50.73(a)(2)(i)(B), Any operation or condition
+         which was prohibited by the plant's Technical Specifications. 10 CFR 50.73(a)(2)(v)(D),
+         &quot;Any event or condition that alone could have prevented the fulfillment of the safety
+         function of structures or systems that are needed to: (D) Mitigate the consequences of an
+         accident.&quot; The condition described in this LER was identified in July 2012, but not
+         promptly investigated as a reportable condition. The station paradigm inappropriately
+         concluded that reportability could be evaluated at a later date since current operating
+         conditions were not challenged, and that the 60-day reporting window commenced when the
+         event was determined to be reportable. FCS has been systematically addressing issues that
+         have been identified since June 2011, in response to the flooding conditions, switchgear
+         fire, and increased oversight. This LER is being submitted beyond the 60-day regulatory
+         reporting requirement due to non-conservative decisions with respect to procedural and
+         regulatory reportability requirements and resource constraints caused by the operating
+         challenges which began in June 2011. This issue was placed in the stations corrective
+         action system.</eventDesc>
+      <conclusion>A cause analysis is being evaluated and will be published in a supplement to this
+         LER.</conclusion>
+      <correctiveActions>Compensatory measures were taken to ensure the loading on beam 22 was
+         within calculated limits. Additional corrective actions will be determined following
+         completion of the cause evaluation.</correctiveActions>
+      <safetySignificance>A cause analysis is being evaluated the safety significance will be
+         published following the completion of the investigation.</safetySignificance>
+      <safetySystemFunctionalFailure>This event does result in a safety system functional failure in
+         accordance with NEI-99-02.</safetySystemFunctionalFailure>
+      <previousEvents>A cause analysis is being evaluated and previous events will be determined
+         following the completion of the evaluation.</previousEvents>
+   </narrative>
+</ler>

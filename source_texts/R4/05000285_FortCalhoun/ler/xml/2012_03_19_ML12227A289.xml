@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2012-03-19" id="2852012012">
+   <abstract>Fort Calhoun Station (FCS) operating procedures allow filling and sluicing multiple
+      safety injection tanks (SITs) while at power, rendering the SITs inoperable during the
+      evolution. The use of this procedure allowed multiple safety injection tanks to be
+      concurrently filled while FCS was at power. FCS Technical Specifications (TS) and accident
+      analysis do not allow more than one SIT to be inoperable. This condition was identified on
+      March 19, 2012, while the unit was in Mode 5, by the NRC during initial license examination
+      preparation. A cause analysis is in progress. The results of the analysis will be published in
+      a supplement to this LER.</abstract>
+   <narrative>
+      <background>Fort Calhoun Station (FCS) is a two-loop reactor coolant system of Combustion
+         Engineering (CE) design. The FCS Updated Safety Analysis Report (USAR) Section 6.2.2,
+         System Description, states that the safety injection system [BP] for this plant consists of
+         both passive and active components. The four pressurized safety injection tanks (SITs) [6A,
+         6B, 6C, 6D] are of the passive type and require no outside power or safety injection
+         actuation signal to operate. The SITs inject large quantities of borated water into the
+         reactor coolant system (RCS) [AB] following a large pipe break. The water rapidly covers
+         and cools the core, thereby limiting clad melting and metal water reaction. The separate
+         and independent tanks are each connected to one of the four safety injection nozzles [NZL];
+         one nozzle is located on each of the four RCS cold legs. The driving head for water
+         injection is provided by a nitrogen cover gas at a pressure of 240 pounds per square inch
+         (psig) minimum. As the RCS pressure falls below tank pressure, check valves [V] open in the
+         line connecting each tank to the system. Thus, these tanks will initiate their discharge
+         when the RCS pressure drops below approximately 240 psig minimum. The figure below is
+         provided to aid in understanding the event. SI-6A, 6B, 6C, 6D HCV-2916, 2936, 2956, 2976
+         HCV-2914, 2934, 2954, 2974 FCS USAR Section 6.2.1, Design Bases, states that the system
+         requirements during a Design Basis large break loss of coolant accident (LBLOCA) are met
+         with the assumption of three of the four SITs delivering borated water to the core and with
+         one high pressure safety injection (HPSI) pump [BQ] delivering approximately 75 percent of
+         its rated flow to the core and one low-pressure safety injection (LPSI) pump delivering
+         approximately 75 percent of its rated flow to the core. Technical Specification (TS)
+         Limiting Condition for Operation (LCO) 2.3, Emergency Core Cooling, Minimum Requirement
+         (1)(c) requires that all four SITs are operable and pressurized to at least 240 psig and a
+         maximum of 275 psig with tank level of at least 116.2 inches (67 percent) and a maximum
+         level of 128.1 inches (74 percent) with refueling boron concentration. Minimum Requirement
+         1(ii) states that all valves, piping and interlocks associated with the above components
+         and required to function during accident conditions are operable. Valves HCV-2914, 2934,
+         2974, and 2954 (SIT 6A, 6B, 6C and 6D outlet valves) shall have power removed from the
+         motor operators by locking open the circuit breakers in the power supply lines to the valve
+         motor operators. Valve FCV-326 (Shutdown Cooling Heat Exchangers AC-4A &amp; 4B LPSI Bypass
+         Flow Control Valve) shall be locked open. TS LCO 2.3 Modification of Minimum Requirements
+         (2)f. states that one safety injection tank may be inoperable for reasons other than g.
+         [temperature/pressure] or h. [born concentration] for a period of no more than 24 hours.
+         The normal at-power line-up for SIT-6A, 6B, 6C, and 6D is to have HCV-2914 [ISV], 2934,
+         2954, and 2974 locked open with power removed and to have HCV-2916, 2936, 2956, and 2976
+         (SIT 6A, 6B, 6C and 6D fill/drain valve) closed. Valves HCV-2916, 2936, 2956, and 2976 all
+         receive an accident signal to automatically close.</background>
+      <eventDesc>FCS operating procedures allow filling and sluicing multiple safety injection tanks
+         (SITs) while at power. Since the filling operation requires opening the valves (which
+         receive a signal to close post accident), these valves would be required to close via
+         electrical signals, which is not a passive feature. Since the tanks are credited as a
+         passive feature, the opening of the valves could impact the tanks’ passive design feature,
+         hence rendering the SITs inoperable during the evolution. The use of this procedure allowed
+         multiple SITs to be concurrently inoperable while FCS was at power. FCS TS and accident
+         analysis do not allow more than one SIT to be inoperable. This condition was identified on
+         March 19, 2012, while the unit was in Mode 5, by the NRC during initial license examination
+         preparation. This report is being submitted in accordance with 10 CFR 50.73(a)(2)(i)(B), 10
+         CFR 50.73(a)(2)(v)(D), and 10 CFR 50.73(a)(2)(vii)(D). This LER reports a condition where
+         multiple SITs could be filled, hence potentially rendering them inoperable using approved
+         plant procedures. The initial Operation’s review focused on the current operating
+         conditions, noting that the condition would need to be resolved prior to start up. The
+         station paradigm inappropriately concluded that reportability could be evaluated at a later
+         date since current operating conditions were not challenged, and that the 60-day reporting
+         window commenced when the event was determined to be reportable. FCS has been
+         systematically addressing issues that have been identified since June 2011, in response to
+         the flooding conditions, switchgear fire, and increased oversight. This LER is being
+         submitted beyond the 60-day regulatory reporting requirement due to non-conservative
+         decisions with respect to procedural and regulatory reportability requirements and resource
+         constraints caused by the operating challenges which began in June 2011.</eventDesc>
+
+      <conclusion>A cause analysis is in progress. The results of the analysis will be published in
+         a supplement to this LER.</conclusion>
+      <correctiveActions>A cause analysis is in progress. The corrective actions will be published
+         in a supplement to this LER.</correctiveActions>
+      <safetySignificance>A cause analysis is in progress. The results of the analysis will be
+         published in a supplement to this LER.</safetySignificance>
+      <safetySystemFunctionalFailure>This event does result in a safety system functional failure in
+         accordance with NEI-99-02.</safetySystemFunctionalFailure>
+      <previousEvents>A cause analysis is in progress. Previous events will be determined from the
+         results of the cause analysis.</previousEvents>
+   </narrative>
+</ler>

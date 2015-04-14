@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2012-03-29" id="2852012004">
+   <abstract>While investigating operating experience from another station concerning potential
+      instrument drift it was determined that Fort Calhoun Station (FCS) is subject to similar
+      conditions. It was determined that pressure switches that provide safety related signals for
+      high containment pressure to the reactor protection system (RPS) and engineered safeguards
+      actuation circuitry may be similarly affected at FCS. The impact of the potential drift was
+      evaluated and it was determined that neither RPS nor the engineered safeguard circuitry may
+      actuate at the required containment pressure of 5 psig. An evaluation determined that the
+      actuation may not occur until slightly higher than the required pressure. Other systems are
+      currently being evaluated for this condition. A cause analysis is being performed and will be
+      provided in a supplement to this report. Corrective actions will be determined following the
+      completion of the cause analysis.</abstract>
+   <narrative>
+      <eventDesc>While investigating operating experience from another station it was determined
+         that Fort Calhoun Station (FCS) is subject to similar conditions. The operating experience
+         involved setpoint drift of safety-related pressure switches beyond what had been accounted
+         for in the station’s safety analyses. Following investigation and evaluation, it was
+         determined that pressure switches that provide safety-related signals for high containment
+         pressure to the reactor protection system (RPS) and engineered safeguards actuation
+         circuitry may be similarly affected at FCS. The impact of the potential drift was evaluated
+         and it was determined that neither RPS nor the engineered safeguard circuitry may actuate
+         at the required containment pressure of 5 psig. An evaluation determined that the actuation
+         may occur at a slightly higher value than the required pressure. Other systems are
+         currently being evaluated for the condition. On May 2, 2012, an eight (8) hour report was
+         made per 10 CFR 50.72(b)(3)(ii)(B) to the NRC Headquarters Operation Office (HOO) at 1802
+         CDT (Event Number (EN) 47892). After further evaluation this report is being made per 10
+         CFR 50.73(a)(2)(ii)(B) and (a)(2)(v)(A,B,C,D). </eventDesc>
+      <conclusion>A cause analysis is being performed and the results will be provided in a
+         supplement to this report.</conclusion>
+      <correctiveActions>Corrective actions will be determined following the completion of the cause
+         analysis.</correctiveActions>
+      <safetySignificance>A cause analysis is in progress. The safety significance of this event
+         will be provided in a supplement to this LER following completion of the
+         analysis.</safetySignificance>
+      <safetySystemFunctionalFailure>This event does result in a safety system functional failure in
+         accordance with NEI-99-02.</safetySystemFunctionalFailure>
+      <previousEvents>No events of a similar nature have been identified.</previousEvents>
+   </narrative>
+</ler>

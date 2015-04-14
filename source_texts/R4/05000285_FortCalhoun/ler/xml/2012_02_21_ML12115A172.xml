@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2012-02-21" id="2852012005">
+   <abstract>During a QA review of surveillance procedures, an apparent failure to perform
+      surveillance testing of the full automatic functions of the fuel oil transfer pumps was
+      identified. Technical Specifications require monthly testing of the fuel oil transfer pumps.
+      However, procedure changes made in 1990 removed the test of the automatic start of the fuel
+      oil transfer pumps on low level in the Emergency Diesel Generator (EDG) day tank. Without full
+      testing of the automatic functions of the fuel oil transfer pumps, they cannot be considered
+      operable. Consequently, the EDGs cannot be considered operable because all auxiliary equipment
+      to support operability has not demonstrated that it is fully capable of performing its safety
+      function. There is reasonable assurance that the EDGs and fuel transfer pumps would function
+      as required as the low level switches are calibrated on a refueling frequency and have
+      functioned correctly during extended EDG surveillances. This report is being made in
+      accordance with 10 CFR 50.73(a)(2)(i)(B), 50.73(a)(2)(ii)(B), 50.73(a)(2)(vii), and
+      50.73(a)(2)(v)(B) and (D). Corrective actions have been developed to revise the Emergency
+      Diesel Generator surveillances to include fuel oil transfer pump surveillance
+      testing.</abstract>
+   <narrative>
+      <background>Fort Calhoun Station (FCS) Technical Specifications (TS) require monthly testing
+         of the fuel oil transfer pumps. However, procedure changes made in 1990 removed the test of
+         the automatic start of the fuel oil transfer pumps on low level in the Emergency Diesel
+         Generator (EDG) day tank. Without full testing of the automatic functions of the fuel oil
+         transfer pumps, they cannot be considered operable. Consequently, the EDGs cannot be
+         considered operable because all auxiliary equipment to support operability has not
+         demonstrated that it is fully capable of performing its safety function. “A system,
+         subsystem, train, component or device shall be OPERABLE or have OPERABILITY when it is
+         capable of performing its specified safety function(s) and when all necessary attendant
+         instrumentation, controls, normal or emergency electrical power sources, cooling and seal
+         water, lubrication, and other auxiliary equipment that are required for the system,
+         subsystem, train, component or device to perform its specified safety function(s) are also
+         capable of performing their related support function(s).” Monthly fuel oil transfer pump
+         testing is required by TS 3.7(1) e. and Table 3-2, Item 12.</background>
+      <eventDesc>During a Quality Assurance (QA) review of surveillance procedures, an apparent
+         failure to perform surveillance testing of the full automatic functions of the EDG fuel oil
+         transfer pumps was identified. Technical Specifications require monthly testing of the fuel
+         oil transfer pumps. However, procedure changes made in 1990 removed the test of the
+         automatic start of the fuel oil transfer pumps on low level in the EDG day tank. Without
+         full testing of the automatic functions of the fuel oil transfer pumps, they cannot be
+         considered operable. Consequently, the EDGs cannot be considered operable because all
+         auxiliary equipment to support operability has not demonstrated that it is fully capable of
+         performing its safety function.</eventDesc>
+      <conclusion>A cause determination is in progress. The results of the evaluation will be
+         published in a revision to this LER.</conclusion>
+      <correctiveActions>Corrective actions have been developed to revise the EDG surveillance tests
+         to include fuel oil transfer pump surveillance testing. Additional corrective actions may
+         be developed based on the conclusions of the cause analysis.</correctiveActions>
+      <safetySignificance>Failure to fully test the automatic functions of the fuel oil transfer
+         pumps renders the pumps inoperable. Therefore, consistent with the definition of OPERABLE,
+         the EDGs cannot be considered operable as they rely upon the fuel oil transfer pumps to
+         ensure an adequate fuel supply when the EDGs are performing their safety function. The EDGs
+         have been technically inoperable in excess of TS allowed times. However, there is
+         reasonable assurance that the EDGs and fuel transfer pumps would function as required as
+         the low level switches are calibrated on a refueling frequency and have functioned
+         correctly during extended EDG surveillances. FCS TS do not contain electrical system
+         requirements for shutdown conditions. The inoperability of the EDGs in the current
+         operating MODE does not violate TS. The EDGs will be fully operable prior to plant restart
+         and modes of applicability.</safetySignificance>
+      <safetySystemFunctionalFailure>This event does result in a safety system functional failure in
+         accordance with NEI-99-02.</safetySystemFunctionalFailure>
+      <previousEvents>Previous events will be identified by the cause analysis and included in the
+         supplement to this LER.</previousEvents>
+   </narrative>
+</ler>

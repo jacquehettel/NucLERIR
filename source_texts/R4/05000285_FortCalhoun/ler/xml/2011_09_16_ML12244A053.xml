@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2011-09-16" id="2852012015">
+   <abstract>While reviewing a draft of the Master List Reconstitution for Electrical Equipment
+      Qualification (EA-FC-08-011), Fort Calhoun Station (FCS) Engineering Department identified
+      that some of the listed components may not be qualified for the environments where they are
+      located. This was discovered during a comprehensive re-evaluation of potential high energy
+      line breaks and radiological impacts outside containment initiated in response to issues
+      identified by the station staff. This condition was identified on September 16, 2011, while
+      the unit was shutdown. A cause analysis is in progress. The results of the analysis will be
+      published in a supplement to this LER.</abstract>
+   <narrative>
+      <background>Fort Calhoun Station (FCS) is a two-loop reactor coolant system of Combustion
+         Engineering (CE) design.</background>
+      <eventDesc>FCS has been conducting a comprehensive re-evaluation of potential high energy line
+         breaks and radiological impacts outside containment. On September 16, 2011, while reviewing
+         a draft of the Master List Reconstitution for Electrical Equipment Qualification, FCS
+         Engineering Department personnel identified that some of the listed components may not be
+         qualified for the environments where they are located. Of the 29 items listed, seven were
+         identified that may exhibit spurious operation when exposed to a post-accident harsh
+         environment. Those items are: PCS-2937, Low Pressure Safety Injection (LPSI) Pump Suction
+         Valve SI-1B Pressure Control Switch PCS-2947, LPSI Pump Suction Valve SI-1A Pressure
+         Control Switch Failure of these pressure switches in a post-accident harsh environment may
+         result in spurious operation of the low pressure safety injection (LPSI) suction valves. A
+         spurious closure of these valves will result in a loss of LPSI pump suction from the Safety
+         Injection Refueling Water tank (SIRWT) and a spurious opening with the SIRWT below the
+         minimum level may result in air intrusion into the pump. VA-40A-M, Contaminated Area
+         Exhaust Unit Fan A Motor VA-40B-M, Contaminated Area Exhaust Unit Fan B Motor VA-40C-M,
+         Contaminated Area Exhaust Unit Fan C Motor These fans are required to provide cooling to
+         the safety injection (SI) pump rooms in a post-accident scenario. All trains of SI will
+         become inoperable due to room heat-up after a loss of these fans. HCZ-1105, Feedwater
+         Bypass Valve Positioner HCZ-1106, Feedwater Bypass Valve Positioner The failure of the
+         positioners will not affect the ability of the feedwater bypass valves HCV-1105 and
+         HCV-1106 to open and provide auxiliary feedwater as this function can be accomplished by
+         operation of the hand controller. However, the hand controller does not have the ability to
+         close the valves. Therefore, the safety function of the valves closing on a Steam Generator
+         Isolation Signal will be lost. This condition is being submitted pursuant to 10 CFR
+         50.73(a)(2)(v)(D), Any event or condition that could have prevented the fulfillment of the
+         safety function of structures or systems that are needed to mitigate the consequences of an
+         accident, The condition described in this LER was identified in September 2011, but not
+         promptly investigated as a reportable condition. The station paradigm inappropriately
+         concluded that reportability could be evaluated at a later date since current operating
+         conditions were not challenged, and that the 60-day reporting window commenced when the
+         event was determined to be reportable. FCS has been systematically addressing issues that
+         have been identified since June 2011, in response to the flooding conditions, switchgear
+         fire, and increased oversight. This LER is being submitted beyond the 60-day regulatory
+         reporting requirement due to non-conservative decisions with respect to procedural and
+         regulatory reportability requirements and resource constraints caused by the operating
+         challenges which began in June 2011.</eventDesc>
+      <conclusion>A cause analysis is in progress. The results of the analysis will be published in
+         a supplement to this LER.</conclusion>
+      <correctiveActions>A cause analysis is in progress. The corrective actions will be published
+         in a supplement to this LER.</correctiveActions>
+      <safetySignificance>A cause analysis is in progress. The results of the analysis will be
+         published in a supplement to this LER.</safetySignificance>
+      <safetySystemFuncitonalFailure>This event does result in a safety system functional failure in
+         accordance with NEI-99-02.</safetySystemFuncitonalFailure>
+      <previousEvents>A cause analysis is in progress. Previous Events will be determined from the
+         results of the cause analysis.</previousEvents>
+   </narrative>
+</ler>

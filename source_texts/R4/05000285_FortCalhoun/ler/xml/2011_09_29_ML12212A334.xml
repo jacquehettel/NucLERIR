@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ler when="2011-09-28" id="2852012008">
+   <abstract>A review of previously completed cause analyses has identified that Fort Calhoun
+      Station (FCS) has moved fuel while the Spent Fuel Pool Area ventilation charcoal filter
+      (VA-66) was inoperable due to failing the methyliodide penetration surveillance. FCS Technical
+      Specification 2.8.3(4) requires the Spent Fuel Pool Area ventilation system to be in service
+      prior to fuel movement. The Spent Fuel Pool Area ventilation system includes a charcoal filter
+      which prevents the release of radioactive material to the outside atmosphere in the event of a
+      fuel handling accident. However, the fuel handling accident analysis does not credit removal
+      of any radioiodine through operation of the Spent Fuel Pool charcoal filter (VA-66); offsite
+      radiological consequences are well within the 10 CFR 50.67 requirements without the charcoal
+      filtration. There have been repeated charcoal efficiency test failures since 2005. There was
+      evidence that the charcoal filters were not capable of meeting the 18-month surveillance
+      frequency. Fuel movement was conducted while the Spent Fuel Pool Area charcoal filter was in
+      service, yet potentially not able to meet the adsorption criteria, hence inoperable which is a
+      violation of TS requirements. A cause analysis is in progress. The results will be published
+      in a supplement to this LER. Corrective actions included a revision of the applicable
+      procedure to ensure that charcoal life is predicted and charcoal filter change out is
+      performed before the charcoal expires. This event is being reported under 10 CFR
+      50.73(a)(2)(i)(B), operation or condition prohibited by TS.</abstract>
+   <narrative>
+      <background>The Auxiliary Building Heating, Ventilation, and Air Conditioning (HVAC) system is
+         designed and operated to protect station personnel and the public from airborne
+         radioactivity, and to provide environmental control for safety-related instrumentation,
+         controls, and equipment. There are several charcoal filters in the Auxiliary Building HVAC
+         system, including the Spent Fuel Pool (SFP) area charcoal filter (VA-66). The filters are
+         made of activated charcoal and have one-inch thick adsorber beds. The charcoal filter
+         (VA-66) is installed in a normally bypassed section of the exhaust ductwork which draws air
+         from the SFP area. The exhaust from the SFP area is monitored for radioactive
+         contamination. If radiation is detected, the charcoal filter (VA-66) can be placed on line
+         from the Control Room. The system does not automatically realign and therefore must be in
+         operation prior to refueling operations in the SFP. Technical Specification (TS) 2.8.3(4)
+         requires the Spent Fuel Pool Area Ventilation to be in service during refueling operations
+         in the SFP to minimize the consequences of a fuel handling accident in the SFP that could
+         affect public health and safety. The charcoal filter in the SFP ventilation system prevents
+         the release of significant radionuclides to the outside atmosphere. When the SFP area
+         ventilation is not in operation, refueling operations in the SFP must be immediately
+         suspended. TS Section 3.2, Table 3-5, Item 10b.2, requires testing of the SFP area charcoal
+         filter on a refueling frequency or every 720 hours of operation, or following significant
+         painting, fire, or chemical release in any ventilation zone communicating with the system
+         to ensure the methyliodide penetration is less than 10 percent when tested in accordance
+         with ASTM D3803-1989 at a temperature of 30 degrees C (86 degrees F) and a relative
+         humidity of 95 percent. Laboratory testing must be completed within 31 days after removal
+         of a sample of the charcoal adsorber. The fuel handling accident analysis does not credit
+         removal of any radioiodine through operation of the SFP charcoal filter (VA-66); offsite
+         radiological consequences are well within the 10 CFR 50.67 requirements without the
+         charcoal filtration.</background>
+      <eventDesc>A review of previously completed cause analyses has identified that Fort Calhoun
+         Station (FCS) has moved fuel while the Spent Fuel Pool Area ventilation charcoal filter
+         (VA-66) was likely below the required adsorption capability, hence inoperable due to
+         failing the methyliodide penetration surveillance. FCS TS 2.8.3(4) requires the Spent Fuel
+         Pool Area ventilation system to be in service prior to fuel movement. There have been
+         repeated charcoal efficiency test failures since 2005. There was evidence that the charcoal
+         filters were not capable of meeting the 18-month surveillance frequency. Fuel movement was
+         conducted while the SFP Area charcoal filter was inoperable in violation of TS
+         requirements. This LER documents a condition that was prohibited by TS. Fuel was moved in
+         the SFP when the SFP area ventilation (VA-66) was considered inoperable. After the ASTM
+         standard for methyliodide testing was revised, the one-inch thick charcoal adsorber beds
+         routinely failed the penetration surveillance test. FCS documented the most recent
+         methyliodide penetration failure in September 2011. FCS had previously concluded (December
+         2009) that the methyliodide penetration failure of the charcoal adsorber in VA-66 was not
+         reportable since VA-66 was no longer credited in the fuel handling accident analysis. The
+         evaluation did not recognize the TS non-compliance. When the condition was questioned as ‘a
+         condition prohibited by TS’ in May 2012, the engineering review agreed with the December
+         2009 station position, and a new reportability evaluation was not promptly completed. The
+         station paradigm inappropriately concluded that reportability could be evaluated at a later
+         date since current operating conditions were not challenged, and that the 60-day reporting
+         window commenced when the event was determined to be reportable. FCS has been
+         systematically addressing issues that have been identified since June 2011, in response to
+         the flooding conditions, switchgear fire, and increased oversight. This LER is being
+         submitted beyond the 60-day regulatory reporting requirement due to non-conservative
+         decisions with respect to procedural and regulatory reportability requirements and resource
+         constraints caused by the operating challenges which began in June 2011.</eventDesc>
+      <conclusion>A cause analysis is in progress. The conclusions of the analysis will be presented
+         in a supplement to this LER.</conclusion>
+      <correctiveActions>Corrective actions included a revision of the applicable procedure to
+         ensure that charcoal life is predicted and charcoal filter change out is performed before
+         the charcoal expires. Additional actions will be tracked in the station’s corrective action
+         system.</correctiveActions>
+      <safetySignificance>FCS TS require the SFP area ventilation to be in operation during
+         operations in the SFP to mitigate the consequences of a fuel handling accident. However,
+         the FCS accident analysis for a fuel handling accident in the SFP assumes the activity is
+         collected by the SFP area ventilation system and released, unfiltered, to the environment,
+         via the auxiliary building vent stack. Since there is no means of isolating the SFP area,
+         all of the airborne activity resulting from the fuel handling accident is assumed to be
+         exhausted out of the auxiliary building in a period of two hours. The SFP area ventilation
+         has no safety function as it is not credited for mitigating the radiological consequences
+         of a fuel handling accident even though actual tests have demonstrated the effectiveness of
+         VA-66 in reducing radiation doses. Therefore, there is no safety significance associated
+         with fuel movement when VA-66 is inoperable and this event had no impact on the health and
+         safety of the public.</safetySignificance>
+      <safetySystemFunctionalFailure>This event does not result in a safety system functional
+         failure in accordance with NEI-99-02.</safetySystemFunctionalFailure>
+      <previousEvents>The station has had two similar events (movement of fuel with VA-66
+         inoperable) as documented in LER 90-05 and LER 94-006.</previousEvents>
+   </narrative>
+</ler>

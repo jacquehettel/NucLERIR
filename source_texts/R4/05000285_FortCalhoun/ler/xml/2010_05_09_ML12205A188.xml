@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2010-05-09" id="2852012007">
+   <abstract>During inspections to determine the physical integrity of a failed pressurizer heater
+      it was determined that the heater sheath (number 26) was cracked. Due to the location of the
+      pressurizer heater crack, this is considered a degradation of the reactor coolant system
+      boundary. The initial visual inspection of heater 26 in November 2011 did not identify the
+      cracking. During efforts to remove the heater, a crack was observed on May 19, 2012. The crack
+      is above and below the heater support plate. The crack is an axial crack showing some
+      branching. The crack is about an inch above and inch below the heater support plate. These
+      inspections were being performed as a result of operating experience. On May 23, 2012, it was
+      determined that the pressurizer heater sheath was part of the reactor coolant system boundary.
+      A root cause analysis is in progress. The results will be published in a supplement to this
+      LER. The heater sheath has been removed and replaced. The other heater sheaths have been
+      inspected and none of them had indications of cracking.</abstract>
+   <narrative>
+      <background>Fort Calhoun Station (FCS) is a two-loop reactor coolant system of Combustion
+         Engineering (CE) design. The pressurizer and its associated heaters were replaced in the
+         fall of 2006 as part of a plant upgrade project. The pressurizer is designed with 36
+         pressurizer heaters. The heaters are 480 VAC immersion heaters with an output of
+         approximately 25 (23.6) kilowatts each. Each heater is 1.252 inches in diameter,
+         approximately 5 feet long, and protrudes vertically into the pressurizer through sleeves
+         welded in the bottom head of the pressurizer. The heaters and sheaths were manufactured by
+         Watlow Electric Manufacturing.</background>
+      <eventDesc>During inspections to determine the physical integrity of a failed pressurizer
+         heater it was determined that the heater sheath (number 26) was cracked. Due to the
+         location of the pressurizer heater crack, this is considered a degradation of the RCS
+         Barrier. The initial visual inspection of heater 26 in November 2011 did not identify the
+         cracking. It appears that the crack expanded during the intervening period. During efforts
+         to remove the heater, a crack was observed on May 19, 2012. The crack is above and below
+         the heater support plate. The crack is an axial crack showing some branching. The crack is
+         about an inch above and inch below the heater support plate. These inspections were being
+         performed as a result of operating experience. On May 23, 2012, it was determined that the
+         pressurizer sheath was part of the reactor coolant system boundary. However, there were no
+         indications of any external RCS leakage. At 1854 Central Daylight Time (CDT) on May 23,
+         2012, an 8-hour notification was made to the Headquarters Operations office (HOO), under
+         10CFR50.72(b)(3)(ii)(a). This report is being made per 10CFR50.73(a)(2)(ii)(A). This LER
+         reports a condition that was documented in the FCS corrective action program on several
+         occasions. A ground on a pressurizer heater on May 9, 2010, was only reviewed with respect
+         to the Technical Specification requirements for available pressurizer heaters. When the
+         potential challenge to the reactor coolant boundary due to a failed pressurizer heater was
+         identified on August 5, 2011, the Operations review focused on the current operating
+         conditions, noting that the condition would need to be resolved prior to start up. The
+         station paradigm inappropriately concluded that reportability could be evaluated at a later
+         date since current operating conditions were not challenged, and that the 60-day reporting
+         window commenced when the event was determined to be reportable. In addition, FCS resources
+         were focused on flood response and mitigation due to the extensive flooding that occurred
+         along the Missouri River beginning in June 2011. FCS had declared an Unusual Event on June
+         6, 2011, due to rising river level and river projections, and resources were focused on
+         flood response and asset protection. This condition was initially reported in Event
+         Notification (EN) 47953 on May 23, 2012, at 1854 CDT. FCS has been systematically
+         addressing issues that have been identified since June 2011, in response to the flooding
+         conditions, switchgear fire, and increased oversight. This LER is being submitted beyond
+         the 60-day regulatory reporting requirement due to non-conservative decisions with respect
+         to procedural and regulatory reportability requirements and resource constraints caused by
+         the operating challenges which began in June 2011.</eventDesc>
+      <conclusion>A root cause analysis is in progress. The conclusions of the analysis will be
+         presented in a supplement to this LER. </conclusion>
+      <correctiveActions>Actions to Prevent Recurrence The cracked heater has been removed and
+         replaced. The other heater sheaths have been very rigorously inspected to ensure any cracks
+         would be identified. None of the other heater sheaths had indications of cracking.
+         Additional actions will be tracked in the stations corrective action
+         system.</correctiveActions>
+      <safetySignificance>While the heater sheath crack caused the electrical failure of the
+         pressurizer heater, the heater design includes a secondary seal (not the RCS pressure
+         boundary) that prevented any leakage from the reactor coolant system. This integral safety
+         function operated as anticipated and designed. FCS performed a bare metal inspection of the
+         pressurizer bottom head and confirmed that there were no indications of any external RCS
+         leakage from any of the heaters or their penetrations. Therefore this event had no impact
+         on the health and safety of the public.</safetySignificance>
+      <safetySystemFunctionalFailure>This event does not result in a safety system functional
+         failure in accordance with NEI-99-02.</safetySystemFunctionalFailure>
+      <previousEvents>The station has not had any previous cracking of pressurizer heater
+         sheaths.</previousEvents>
+   </narrative>
+</ler>

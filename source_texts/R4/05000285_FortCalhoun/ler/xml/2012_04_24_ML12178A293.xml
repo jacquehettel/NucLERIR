@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2012-04-24" id="2852012006">
+   <abstract>The station identified that the CCW pumps were operating beyond their pump curves with
+      the motor running into the service factor, runout conditions were not observed as there were
+      no fluctuations in pressure, no fluctuations in motor amps, no visible signs of pitting or
+      damage on impeller vain trailing, no damage to internal pump casing surfaces, no abnormal
+      vibration, and no abnormal noise. A review of this condition determined that operation in this
+      condition is a violation of plant technical specification for CCW operation A cause analysis
+      is in progress. The results of the analysis will be published in a supplement to this
+      LER.</abstract>
+   <narrative>
+      <background>The Fort Calhoun Station (FCS) Component Cooling Water (CCW) system is a closed
+         loop system consisting of three motor driven circulating pumps, four heat exchangers (HX),
+         a surge tank, valves, piping, instrumentation and controls. Cooling water flows from the
+         cooled components to the HXs from a single header. From the four HXs, the flow goes to the
+         three pumps through a single header and back to the cooled components. The surge tank is
+         connected at the suction header of the pumps. Heat is transferred from the CCW system to
+         the Raw Water (RW) system via the CCW HXs. CCW flows through the shell side and RW flows
+         through the tube side of the HXs. The rejected heat is then discharged by the RW system to
+         the Missouri River. FCS Technical Specification (TS) 2.4 requires that “The reactor shall
+         not be made critical, except for low-temperature physics tests, unless all the following
+         are met:” and includes all three CCW pumps. </background>
+      <eventDesc>Condition Report (CR) 2012-03254 identified issues related to the CCW pumps
+         operating outside of the manufacturer's recommendations. As a result a team was assembled
+         to evaluate the condition. The team reviewed historical documentation and operating data.
+         The evaluation concluded that the CCW pumps have been operating past the end of their pump
+         curves for periods of time beginning in late 1996. This was due to the actions FCS
+         implemented in response to NRC Generic Letter (GL) 96-06. The action was to increase the
+         overpressure on the CCW surge tank AC-2 and, as a result, the CCW system pressure also
+         increased. This action resulted in increasing the pump flows past the manufactures
+         recommendations. Although the CCW pumps were operating beyond their pump curves with the
+         motor running into the service factor, runout conditions were not observed as there were no
+         fluctuations in pressure, no fluctuations in motor amps, no visible signs of pitting or
+         damage on impeller vain trailing, no damage to internal pump casing surfaces, no abnormal
+         vibration, and no abnormal noise. A review of this condition determined that operation in
+         this condition is a violation of FCS TS 2.4 for CCW operation due to the flow being outside
+         of the manufactures recommendations. This report is being submitted in accordance with 10
+         CFR 50.73(a)(2)(i)(B). </eventDesc>
+      <conclusion>A cause analysis is in progress. The results of the analysis will be published in
+         a supplement to this LER.</conclusion>
+      <correctiveActions>Interim action: On 05/07/2012 the CCW System Engineer, after discussion of
+         the issue with the Shift Manager, issued the following recommendation: The CCW System
+         Engineer has recommended limiting CCW System single pump flow to 5300 to ensure CCW Pump
+         operation below the end of the pump curve. If greater CCW system flow is required to meet
+         CCW system heat load requirements, it is recommended that the Control Room start and run a
+         second CCW Pump. This recommendation will remain in effect until actions associated with CR
+         2012-03254 are complete and any subsequent procedure changes have been issued. This
+         recommendation applies to normal operations only and is not intended to change or affect
+         Operator response to any accident or off normal plant event. This recommendation placed the
+         CCW single pump operations back into the region defined by the manufacturer's certified
+         curve for normal operations. A cause analysis is in progress. The results of the analysis
+         will be published in a supplement to this LER.</correctiveActions>
+      <safetySignificance>A cause analysis is in progress. The results of the analysis will be
+         published in a supplement to this LER.</safetySignificance>
+      <safetySystemFunctionalFailure>This event does not result in a safety system functional
+         failure in accordance with NEI-99-02.</safetySystemFunctionalFailure>
+      <previousEvents>A cause analysis is in progress. Previous Events will be determined from the
+         results of the cause analysis.</previousEvents>
+   </narrative>
+</ler>

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2012-03-12" id="2852012003">
+   <abstract>A non-conservative error was identified in the input calculation for post-LOCA
+               cooling flow (post-RAS (recirculation actuation signal)). The calculation used an
+               incorrect (non-conservative) input for LPSI pump performance. The associated
+               procedure (EOP/AOP Attachment 11) as written does not provide adequate direction
+               during the Alternate Hot Leg Injection mode of operation. Therefore, the procedural
+               guidance may not ensure the completion of the safety function of providing adequate
+               core cooling during the Alternate Hot Leg Injection mode of operation under a worst
+               case scenario. A cause analysis is in progress and the results will be included in a
+               supplement to this LER. Corrective actions to address the causes of this condition
+               will be documented in a supplement to this LER.</abstract>
+   <narrative>
+      <background>Fort Calhoun Station (FCS) is a two loop Combustion
+         Engineering, pressurized water reactor. The FCS Safety Injection (SI) system consists of
+         three High Pressure Safety Injection (HPSI) pumps, associated piping and valves; three
+         Containment Spray (CS) pumps, associated piping and valves; and two Low Pressure Safety
+         Injection (LPSI) pumps, associated piping and valves. During accident conditions Emergency
+         Operating Procedures (EOPs) and Abnormal Operating Procedures (AOPs) are used to ensure
+         safe operation of the plant. The primary function of the LPSI system is to provide
+         emergency core cooling following a loss-of-coolant-accident (LOCA). The LPSI system is
+         designed to achieve this in conjunction with the operation of one HPSI pump and one
+         emergency diesel generator during worst case accident conditions. Long-term cooling and
+         recirculation are mainly accomplished by the HPSI system. However, the LPSI pumps can be
+         used to obtain increased recirculation cooling flow once the reactor coolant system
+         pressure is reduced to approximately the same as the containment building pressure. The
+         LPSI pumps may be used to inject uncooled water, or a portion of their discharge may be
+         diverted through the shutdown cooling heat exchanges before being injected back into the
+         Reactor Coolant System (RCS). If only one HPSI pump is available, one LPSI pump in
+         conjunction with the available HPSI pump will be used for simultaneous hot and cold leg
+         injection in accordance with EOP/AOP Attachment 11, “Alternate Hot Leg Injection,” via the
+         shutdown cooling flow path. Hot leg injection is normally accomplished with two HPSI pumps
+         via a cross tie to the Chemical Volume and Control System (CVCS).</background>
+      <eventDesc>The
+         minimum analyzed flow for a LPSI pump is 150 gpm. The calculation does not clearly
+         demonstrate that this flow is maintained during some accident conditions. The associated
+         procedure (EOP/AOP Attachment 11) as written does not provide adequate direction during the
+         Alternate Hot Leg Injection mode of operation to ensure this requirement is met. EOP/AOP
+         Attachment 11 requires that RCS pressure be less than 140 pounds per square inch absolute
+         (psia) as the entry point for the procedure. The LPSI pumps may not be able to meet minimum
+         flow requirements for long term pump operation at this pressure, which could result in pump
+         damage. The minimum required RCS hot leg injection flow is 134 gpm may not be met with
+         current procedural guidance and instrument accuracy limitations. Therefore, procedural
+         guidance may not ensure completion of the safety function of providing adequate core
+         cooling during the Alternate Hot Leg Injection mode of operation under a worst case
+         scenario. On April 25, 2012, at 1622 Central Daylight Time (CDT) an eight-hour notification
+         per 10 CFR 50.72(b)(3)(ii)(B) was made to the Headquarters Operation Office (HOO) (Event
+         Number 478620). This report is being made per 10 CFR 50.73(a)(2)(ii)(B).
+         </eventDesc>
+      <conclusion>A cause analysis is in progress and the results will be
+         included in a supplement to this LER.</conclusion>
+      <correctiveActions>The station is currently in a
+         refueling mode. Corrective actions to address the causes of this condition will be
+         documented in a supplement to this LER. SAFETY SIGNIFICANCE An evaluation of the safety
+         significance of this issue will be completed following the completion of the cause
+         analysis.</correctiveActions>
+      <safetySystemFunctionalFailure>This event does not result in a safety system
+         functional failure in accordance with NEI-99-02.</safetySystemFunctionalFailure>
+      <previousEvents>No previous qualifications
+         issues with hot leg injection have been identified.</previousEvents>
+   </narrative>
+</ler>
+
+      <Table>
+         <TR>
+            <TD>FORT CALHOUN STATION </TD>
+
+            <TD/>
+
+            <TD/>
+
+            <TD>NOD-QP-9.2 </TD>
+         </TR>
+
+         <TR>
+            <TD>QUALITY PROCEDURE FORM </TD>
+
+            <TD/>
+
+            <TD>R0 </TD>
+         </TR>
+
+         <TR>
+            <TD/>
+
+            <TD>LICENSING CORRESPONDENCE REVIEW FORM </TD>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD/>
+
+            <TD/>
+
+            <TD>LIC-12-0065 </TD>
+
+            <TD/>
+         </TR>
+      </Table>
+
+      <P>Date Issued: 5/9/12 Requested Return Date:____5/10/12______ </P>
+
+      <Table>
+         <TR>
+            <TH>Review/Approval </TH>
+
+            <TH>Information </TH>
+         </TR>
+
+         <TR>
+            <TH>Dave Bannister </TH>
+
+            <TD/>
+
+            <TD>Lynn Smith </TD>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH>Susan Baughn </TH>
+
+            <TD/>
+
+            <TD>Woody Goodell </TD>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH>J. Herman </TH>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH>S. Miller </TH>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH>C. Cameron </TH>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH>M. Cooper </TH>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH>M. Friedman </TH>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+      </Table>
+
+      <P>Subject LER 2012-003 “Non-Conservative Error in Calculation for Alternate Hot Leg Injection
+         Results in Unanalyzed </P>
+
+      <P>Condition” </P>
+
+      <P>Please review and approve the attached draft correspondence (referenced above). In order to
+         document your review for our records, please sign this form and return it to the Licensing
+         Coordinator. If n o notification is received by the requested return date, your concurrence
+         with no comment will be assumed. </P>
+
+      <P>E. Matzke 6855____ Technical Coordinator (Ext.) Licensing Coordinator (Ext.) </P>
+
+      <P>[ ] Approved with no comment. [ ] Approved pending resolution of comments as noted. </P>
+
+      <P>Comments:_______________________________________________________________________________ </P>
+
+      <Table>
+         <TR>
+            <TH>___________________________ </TH>
+         </TR>
+
+         <TR>
+            <TH>___ </TH>
+
+            <TD>_________________ </TD>
+         </TR>
+
+         <TR>
+            <TH> Reviewer's Signature </TH>
+
+            <TD>Date </TD>
+         </TR>
+      </Table>
+
+      <Table>
+         <TR>
+            <TH>FORT CALHOUN STATION QUALITY PROCEDURE FORM </TH>
+
+            <TH>NOD-QP-9.2 R0 </TH>
+         </TR>
+
+         <TR>
+            <TH>LICENSING CORRESPONDENCE REVIEW FORM SUMMARY </TH>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH>LIC-12-0065 </TH>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH>Date Issued: </TH>
+
+            <TD>5/9/12 </TD>
+
+            <TD>Requested Return Date: </TD>
+
+            <TD>5/10/12 </TD>
+
+            <TD/>
+         </TR>
+      </Table>
+
+      <Table>
+         <TR>
+            <TD>Name </TD>
+
+            <TD>Date Comments Received </TD>
+
+            <TD>No Comments1 </TD>
+
+            <TD>Comments - How Resolved2 </TD>
+         </TR>
+
+         <TR>
+            <TD>Dave Bannister </TD>
+
+            <TD>5/10/12 </TD>
+
+            <TD/>
+
+            <TD>Corrected discussed and resolved </TD>
+         </TR>
+
+         <TR>
+            <TD>J. Herman </TD>
+
+            <TD>none </TD>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD>Woody Goodell </TD>
+
+            <TD>none </TD>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD>S. Miller </TD>
+
+            <TD>none </TD>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD>Susan Baughn </TD>
+
+            <TD>5/10/12 </TD>
+
+            <TD/>
+
+            <TD>Discussed and corrected </TD>
+         </TR>
+
+         <TR>
+            <TD>C. Cameron </TD>
+
+            <TD>5/10/12 </TD>
+
+            <TD/>
+
+            <TD>Discussed and corrected </TD>
+         </TR>
+
+         <TR>
+            <TD>M. Friedman </TD>
+
+            <TD>5/10/12 </TD>
+
+            <TD/>
+
+            <TD>Discussed and corrected </TD>
+         </TR>
+
+         <TR>
+            <TD>Lynn Smith </TD>
+
+            <TD>none </TD>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD>Mike Cooper </TD>
+
+            <TD>5/10/12 </TD>
+
+            <TD/>
+
+            <TD>Discussed and corrected </TD>
+         </TR>
+
+         <TR>
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+      </Table>
+
+      <Table>
+         <TR>
+            <TH>Subject: LER 2012-003 “Non-Conservative Error in Calculation for Alternate Hot Leg
+               Injection Results in Unanalyzed Condition” </TH>
+         </TR>
+
+         <TR>
+            <TH>NOTE – This submittal does ____ does not __X__ include documents/files on CD-ROM.3
+            </TH>
+         </TR>
+
+         <TR>
+            <TH>NL Comment Coordinator Signature E. Matzke </TH>
+
+            <TD>Date 5/10/12 </TD>
+         </TR>
+
+         <TR>
+            <TH>Responsible Dept. Manager (if required) </TH>
+
+            <TD>Date </TD>
+         </TR>
+
+         <TR>
+            <TH>Review by Nuclear Licensing Supervisor </TH>
+
+            <TD>Date </TD>
+         </TR>
+      </Table>
+
+      <P>1 Attach only signed Licensing Correspondence Review Form. 2 Attach necessary
+         documentation. 3 Ensure that the CD-ROM files are formatted properly for electronic
+         information exchange (EIE) to the </P>
+
+      <P>NRC. (Reference NL-17) </P>
+   </Part>
+</TaggedPDF-doc>

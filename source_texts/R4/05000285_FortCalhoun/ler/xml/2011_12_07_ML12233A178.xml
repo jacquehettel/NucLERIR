@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2011-12-07" id="2852012013">
+   <abstract>Technical Data Book Procedure (TDB)-III.40, “Technical Specification Required SIRWT
+      Levels,” lists the administrative requirements to maintain the Technical Specification (TS)
+      required Safety Injection Refueling Water tank (SIRWT) levels. The required SIRWT level for TS
+      2.3 accounts for instrument uncertainty, as described in the basis for TS 2.3. However, the
+      required SIRWT levels listed in TDB-III.40 for TS 2.2.7 and 2.2.8 do not account for
+      instrument uncertainty. Therefore, the TS described levels in TS 2.2.7 and 2.2.8 did not
+      adequately account for SIRWT instrument level uncertainty. As a result, using the levels
+      described in TDB-III.40 for compliance with TS 2.2.7 and 2.2.8 was non-conservative. The
+      analysis concluded that there was inadequate/incomplete procedural guidance for developing
+      Administrative Limits used to protect TS Limits. This includes guidance for understanding how
+      to evaluate and apply uncertainties when developing TS Administrative Limits. SIRWT level was
+      increased to a level that accounted for instrument uncertainty. TDB-III.40 has been modified
+      to change the Administrative Limits to account for uncertainty.</abstract>
+   <narrative>
+      <background>Fort Calhoun Station (FCS) Technical Specifications (TS) Limiting Conditions for
+         Operation (LCOs) contain requirements to maintain the Safety Injection Refueling Water
+         (SIRW) tank as follows: 2.3, Emergency Core Cooling System (1) Minimum Requirements The
+         reactor shall not be made critical unless all of the following conditions are met: a. The
+         SIRW tank contains not less than 283,000 gallons of water with a boron concentration of at
+         least the refueling boron concentration at a temperature not less than 50 degrees F. 2.2.7,
+         Borated Water Source - Shutdown Applicable in modes 4 and 5 c. The SIRW tank with 1. A
+         minimum useable borated water volume of 10,000 gallons, 2.2.8, Borated Water Sources –
+         Operating Applies to the operational status of borated water sources when the reactor
+         coolant temperature (T cold) is greater than 210 degrees Fahrenheit (F). b. The SIRW tank
+         with: 1. A minimum useable borated water volume of 25,000 gallons, System Description A
+         safeguards actuation signal starts two of the three 100 percent capable high-pressure
+         safety injection (HPSI) pumps, the two low-pressure safety injection (LPSI) pumps, and
+         opens the twelve SI line isolation valves. The third 100 percent capable HPSI pump (SI-2C)
+         may be manually aligned to either of the two HPSI injection headers. Pump SI-2C is manually
+         actuated as required during plant operations. The SI pumps take suction from two
+         independent suction headers which are supplied with borated water from the SIRW tank
+         (SIRWT). The pumps discharge into the reactor coolant system through the four SI nozzles.
+         For long term core cooling, a continuous source of borated water is provided by
+         recirculating containment water.</background>
+      <eventDesc>On December 7, 2011, a condition report (CR) (2011-9956) was written to identify a
+         concern associated with the TS values contained in the Technical Data Book (TDB) for the
+         SIRWT. Specifically, TDB-III.40, “Technical Specification Required SIRWT Levels,” lists the
+         administrative requirements for maintaining the TS required SIRWT levels. As stated in the
+         TS Basis for TS 2.3, the required SIRWT level for TS 2.3 accounts for instrument
+         uncertainty and therefore is not a concern. However, the required SIRWT levels listed in
+         TDB-III.40 for TS 2.2.7 and 2.2.8 do not account for instrument uncertainty. As a result,
+         the TS described levels in TS 2.2.7 and 2.2.8 did not account for SIRWT instrument level
+         uncertainty and using the levels described in TDB-III.40 for compliance with TSs 2.2.7 and
+         2.2.8 was determined to be non-conservative. The cause analysis identified two times in the
+         previous three years when LCO 2.2.7, Borated Water Source – Shutdown requirements were not
+         met. During the 2009 refueling outage (RFO), between approximately 1430 on November 1,
+         2009, and 0330 on November 12, 2009, and again during the 2011 RFO, between approximately
+         0347 on May 29, 2011, and 0300 on May 31, 2011. No instances of LCO 2.2.8, Borated Water
+         Sources – Operating, not being met were identified. This condition has been entered in the
+         station’s Corrective Action Program (CAP) as CR 2011-9956. This event is being reported
+         pursuant to 10 CFR 50.73(a)(2)(i)(B). During the cause analysis, three additional TS
+         instrument uncertainties were questioned and entered into the FCS CAP: 1. Pressurizer level
+         - uncertainty in initial pressurizer level was not applied appropriately in several of the
+         calculations of USAR Chapter 14 analyses performed during the timeframe of the replacement
+         steam generator project. However, due to the additional conservatism already employed in
+         the initial pressurizer level in those calculations, the initial pressurizer level used is
+         still conservative to what was required, and therefore, the calculations themselves remain
+         conservative. 2. Refueling cavity level instruments LI-106 and LI-199 – being reviewed. 3.
+         CEA position indication – being reviewed. FCS has been systematically addressing issues
+         that have been identified since June 2011, in response to the flooding conditions,
+         switchgear fire, and increased oversight. This LER is being submitted beyond the 60-day
+         regulatory reporting requirement due to non-conservative decisions with respect to
+         procedural and regulatory reportability requirements and resource constraints caused by the
+         operating challenges which began in June 2011.</eventDesc>
+      <conclusion>A cause analysis was conducted to determine the reason for the failure to account
+         for instrument uncertainties. The analysis concluded that there was inadequate/incomplete
+         procedural guidance for developing Administrative Limits used to protect Technical
+         Specification Limits. This includes guidance for understanding how to evaluate and apply
+         uncertainties when developing Technical Specification Administrative Limits.</conclusion>
+      <correctiveActions>Interim Actions SIRWT level was increased to a level that accounted for
+         instrument uncertainty. TDB-III.40 (Engineering Change (EC) 56127) has been modified to
+         change the Administrative Limits to account for uncertainty. Actions to Prevent Recurrence
+         Procedures PED-QP-9, “Setpoint Control,” SO-G-30, “Procedure Changes and Generation,” and
+         PED-NEI-4, “Interface Requirements for Reload Analysis Process,” will be revised to include
+         guidance on the development of new Technical Specification limits and the associated
+         administrative limits. These actions will be tracked in the station’s CAP and will be
+         completed prior to December 31, 2012.</correctiveActions>
+      <safetySignificance>Two instances occurred where TS Limit 2.2.7 was not met as a result of
+         this condition. The 10,000-gallon limit for SIRWT volume (credited for a mode 5 boron
+         dilution event) is in fact not used in USAR 14.3, Boron Dilution Incident. There is no
+         analytical basis for the 10,000-gallon limit associated with SIRWT volume. The
+         25,000-gallon limit associated with SIRWT volume is enveloped by a larger required limit of
+         283,000 gallons. Although this resulted in a reportable event, it did not represent a
+         challenge to nuclear safety as the refueling cavity was filled as required by TS. This
+         event did not result in the release of any radiation. Therefore, this event had no impact
+         on the health and safety of the public.</safetySignificance>
+      <safetySystemFunctionalFailure>This event does not result in a safety system functional
+         failure in accordance with NEI-99-02.</safetySystemFunctionalFailure>
+      <previousEvents>No previous events concerning inadequate application of uncertainty have been
+         identifed.</previousEvents>
+   </narrative>
+</ler>

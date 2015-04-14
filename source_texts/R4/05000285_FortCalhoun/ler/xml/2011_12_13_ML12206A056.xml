@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2011-12-13" id="2852012009">
+   <abstract>During the review of the current analysis of record for Main Steam Line Break (MSLB)
+      inside containment, no analysis or evaluation could be found to address why the original
+      Electrical Environmental Qualification (EEQ) evaluation of peak MSLB conditions remain valid.
+      The current analysis of record establishes that containment temperatures remain above the Loss
+      of Coolant Accident (LOCA) peak temperature for substantially longer (220 seconds versus 60
+      seconds) but at a lower temperature (347.9 degrees Fahrenheit vs. 401 degrees Fahrenheit). The
+      longer dwell times could result in a more adverse impact on environmentally qualified
+      equipment. A cause analysis is being processed and the results will be reported in a
+      supplement to this LER. Fort Calhoun Station will perform thermal lag analyses for the
+      Electrical Equipment Qualification Program equipment located within containment prior to plant
+      startup. The LER will be supplemented with the information from the EEQ and cause
+      analysis.</abstract>
+   <narrative>
+      <background>Fort Calhoun Station (FCS) is a two-loop reactor coolant system of Combustion
+         Engineering (CE) design.</background>
+      <eventDesc>FCS Condition Report (CR) 2011-10129, described a condition where equipment within
+         the 10CFR50.49 (Equipment Qualification Rule) was not analyzed to the conditions defined in
+         FCS calculation FC07054 Rev 1, “Containment Response Study of a Main Steam Line Break with
+         GOTHIC,” and created an unanalyzed condition. This condition was determined to be
+         reportable as an unanalyzed condition which could prevent fulfillment of a safety function.
+         During the review of the current analysis of record for Main Steam Line Break (MSLB) inside
+         containment, no analysis or evaluation could be found to address why the original
+         Electrical Environmental Qualification (EEQ) evaluation of peak MSLB conditions remain
+         valid. The current analysis of record in calculation FC07054 Rev 1 establishes that
+         containment temperatures remain above the Loss of Coolant Accident (LOCA) peak temperature
+         for substantially longer (220 seconds versus 60 seconds) but at a lower temperature (347.9
+         degrees Fahrenheit vs. 401 degrees Fahrenheit). The longer dwell time could result in a
+         more adverse impact on environmentally qualified equipment. This would impact both trains
+         and a majority of the safety related equipment inside containment. At 1513 Central Daylight
+         Time (CDT) on May 4, 2012, an 8-hour notification was made to the Headquarters Operations
+         office (HOO), under 10CFR50.72(b)(3)(ii)(B). This report is being made per
+         10CFR50.73(a)(2)(ii)(B) and 10 CFR 50.73(a)(2)(v)(A), (B), (C) and (D). This LER reports a
+         condition where equipment within 10 CFR 50.49, Equipment Qualification Rule, was not
+         properly analyzed when the analysis of record was revised. The initial Operations review
+         focused on the current operating conditions, noting that the condition would need to be
+         resolved prior to start up. The station paradigm inappropriately concluded that
+         reportability could be evaluated at a later date since current operating conditions were
+         not challenged, and that the 60-day reporting window commenced when the event was
+         determined to be reportable. In addition, FCS resources were focused on flood response and
+         mitigation due to the extensive flooding that occurred along the Missouri River beginning
+         in June 2011. FCS had declared an Unusual Event on June 6, 2011, due to rising river level
+         and river projections, and resources were focused on flood response and asset protection.
+         This condition was initially reported in Event Notification (EN) 47900 on May 4, 2012, at
+         1513 CDT. FCS has been systematically addressing issues that have been identified since
+         June 2011, in response to the flooding conditions, switchgear fire, and increased
+         oversight. This LER is being submitted beyond the 60-day regulatory reporting requirement
+         due to non-conservative decisions with respect to procedural and regulatory reportability
+         requirements and resource constraints caused by the operating challenges which began in
+         June 2011.</eventDesc>
+      <conslusion>A cause analysis is being processed and the results will be reported in a
+         supplement to this LER.</conslusion>
+      <correctiveActions>Fort Calhoun Station will perform thermal lag analyses for the Electrical
+         Equipment Qualification Program equipment located within containment prior to plant
+         startup. The LER will be supplemented with the information from the EEQ and cause analysis.
+         Additional actions will be tracked in the stations corrective action
+         system.</correctiveActions>
+      <safetySignificance>The safety significance of this event will be evaluated in the LER
+         supplement following completion of the thermal lag analysis.</safetySignificance>
+      <safetySystemFuncitonalFailure>This event does result in a safety system functional failure in
+         accordance with NEI-99-02.</safetySystemFuncitonalFailure>
+      <previousEvents>The station has not had any previous LERs for environmental
+         qualification.</previousEvents>
+   </narrative>
+</ler>

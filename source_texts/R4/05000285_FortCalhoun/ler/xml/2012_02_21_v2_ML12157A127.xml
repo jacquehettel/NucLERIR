@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2012-02-21" id="2852012005" version="2">
+   <abstract>On February 21, 2012, during a review of Fort Calhoun Station surveillance
+               procedures, it was identified that the Emergency Diesel Generator (EDG) fuel oil
+               transfer pumps have not been tested in accordance with the requirements of Technical
+               Specifications (TSs). The inadequate testing was caused by a procedure change made in
+               1990 that removed the required monthly test of the automatic low level start feature
+               of the fuel oil transfer pumps. There is reasonable assurance that the EDGs and fuel
+               transfer pumps would function as required as the low level switches are calibrated on
+               a refueling frequency. The apparent cause of this event is a lack of technical rigor
+               in the procedure change process employed in 1990s. Corrective actions have been
+               developed to revise the EDG surveillances to include fuel oil transfer pump
+               surveillance testing.</abstract>
+   <narrative>
+      <background>The Emergency Diesel Generators (EDGs) fuel oil
+         transfer pumps are skid mounted electric pumps located next to each of the EDGs. There are
+         two pumps for each EDG. Each EDG has a suction pipe from the diesel generator fuel oil
+         storage tank (FO-1). The fuel oil transfer pumps for each EDG draw fuel from the suction
+         pipe for the respective EDG. Each EDG has a wall mounted fuel oil day tank that is supplied
+         by the fuel transfer pumps. The day tanks have level indication on the outside of the tank,
+         a manual drain valve on the bottom of the tank, a vent, and an overflow line that goes back
+         to F0-1. Each day tank also has four level switches, high and high-high level switches, and
+         low and low-low level switches. The fuel oil transfer pumps have three control switches.
+         Each pump has a three-position switch with positions HAND, OFF, and AUTO. There is also a
+         two-position selector switch with positions labeled NO 1 and NO 2. During normal operation,
+         the control switches for each fuel oil transfer pump are placed in AUTO and the selector
+         switch is placed in the NO 1 position. In this arrangement, when the day tank low level
+         switch actuates, the number 1 fuel oil transfer pump energizes to fill the tank. In the
+         event that the number 1 fuel oil transfer pump fails to operate, the low-low level switch
+         will start the number 2 fuel oil transfer pump. With the selector switch in the NO 2
+         position, the number 2 fuel oil transfer pump would start on low level and the number 1
+         pump would start on low-low level. The original Fort Calhoun Station (FCS) Technical
+         Specifications (TSs) issued May 24, 1973, included a requirement to test the diesel
+         generator fuel oil transfer pumps monthly. Monthly fuel oil transfer pump testing is
+         currently required by TS 3.7(1)e. and Table 3-2, Item 12.</background>
+      <eventDesc>During a review
+         of surveillance procedures, a failure to perform complete surveillance testing of the full
+         automatic functions of the EDG fuel oil transfer pumps was identified (Condition Report
+         (CR) 2012-01324). However, procedure changes made in 1990 removed the test of the automatic
+         start of the fuel oil transfer pumps on low level in the fuel oil day tank. Consequently,
+         the EDGs cannot be considered operable because all auxiliary equipment to support
+         operability has not demonstrated that it is fully capable of performing its safety
+         function. This report is being made per 10 CFR 50.73(a)(2)(i)(B), 50.73(a)(2)(ii)(B),
+         50.73(a)(2)(v)(B) and (D), and 50.73(a)(2)(vii). 
+      </eventDesc>
+         <conclusion>Prior to 1989, fuel oil transfer pump testing
+         was included in the EDG surveillance procedures. The cause evaluation identified that the
+         specific procedure steps to test the automatic start of the fuel oil transfer pumps on low
+         level was removed by a procedure revision made in May 1990. Fuel oil transfer pump trip on
+         high level remained in the procedure. The procedure change was prompted by a modification
+         that replaced the fuel transfer pumps and added pressure gauges and flow rate meters. Other
+         procedure changes not pertinent to the modification were made at the same time. The
+         additional changes included fully removing steps to place the fuel oil transfer pump
+         transfer switches in AUTO for the purpose of testing. By operating the fuel oil transfer
+         pumps in HAND, the length of the monthly EDG run would be shortened. The procedure revision
+         summary did not provide discussion on the changes made beyond the scope of the
+         modification. The FCS EDG configuration results in unavailability hours under the
+         maintenance rule during surveillance testing, so reducing EDG run time would reduce
+         unavailability time. The change was made 22 years ago, making it very difficult to
+         reconstruct thoughts and discussions surrounding the procedure change. Clearly, there was a
+         lack of understanding surrounding the purpose of the testing of the auto start feature of
+         the fuel oil transfer pump, but there is no indication that the change was made to violate
+         or circumvent TS requirements. Several historical organizational and/or programmatic
+         defenses may have failed. The procedure revision process used in the 1990s did not have the
+         technical rigor that is currently employed at FCS. In addition, the surveillance test
+         program does not clearly link surveillance requirements to specific surveillance tests.
+         Furthermore, the design basis document for the EDGs does not currently contain sufficient
+         information on fuel oil transfer pump testing and verification. The procedure changes made
+         in 1990 removed the test of the automatic start of the fuel oil transfer pumps on low level
+         in the EDG day tank. Without full testing of the automatic functions of the fuel oil
+         transfer pumps, they cannot be considered operable. Consequently, the EDGs cannot be
+         considered operable because all auxiliary equipment to support operability has not
+         demonstrated that it is fully capable of performing its safety function. The apparent cause
+         of this event is a lack of technical rigor in the procedure change process employed in the
+         1990s. Contributing causes are a lack of documentation indicating which surveillance tests
+         satisfy specific technical specification surveillance requirements, and a lack of design
+         basis information on verification methods for the fuel oil transfer pumps. </conclusion>
+      <correctiveActions>1. Prior to plant restart, the Emergency
+         Diesel Generator (EDG) surveillance tests will be revised to perform a test of the fuel oil
+         transfer pumps ensuring auto operation is verified on a monthly basis. This is an ongoing
+         commitment. 2. Prior to plant restart, the EDG design basis document will be updated to
+         include verification information for the diesel generator fuel oil transfer pumps. This is
+         a one-time commitment.</correctiveActions>
+      <safetySignificance>Failure to fully test the automatic functions of
+         the fuel oil transfer pumps renders the pumps inoperable. Therefore, consistent with the
+         definition of OPERABLE, the EDGs cannot be considered operable as they rely upon the fuel
+         oil transfer pumps to ensure an adequate fuel supply when the EDGs are performing their
+         safety function. The EDGs have been technically inoperable in excess of TS allowed times.
+         However, there is reasonable assurance that the EDGs and fuel transfer pumps would function
+         as required as the low level switches are calibrated on a refueling frequency.</safetySignificance>
+      <safetySystemFunctionalFailure>This event does result in a safety system functional failure in
+         accordance with NEI-99-02.</safetySystemFunctionalFailure>
+      <previousEvents>No previous events of a similar nature have been
+         identified.</previousEvents>
+   </narrative>
+</ler>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2012-03-02" id="2852012002">
+   <abstract>During a review of environmental qualification records for reactor containment building
+      electrical penetrations, six penetrations were identified that may not provide an adequate
+      seal during worst case (Design Basis Accident (DBA)) conditions as required. These
+      penetrations are through wall from the containment into the auxiliary building. A cause
+      analysis is in progress and the results will be included in a supplement to this LER. The
+      station is currently in a refueling mode. Corrective actions to address the causes of this
+      condition will be documented in the supplement to this LER. The subject penetrations will be
+      restored to full environmental qualifications prior to plant startup.</abstract>
+   <narrative>
+      <background>Fort Calhoun Station Technical Specification (TS) 2.6(1)a. states: Containment
+         integrity shall not be violated unless the reactor is in a cold or refueling shutdown
+         condition. Without containment integrity, restore containment integrity within one hour or
+         be in at least hot shutdown within the next 6 hours, in at least subcritical and greater
+         than 300 degrees Fahrenheit within the next 6 hours and in cold shutdown within the
+         following 30 hours. Normally locked or sealed-closed valves (except for PCV-742A/B/C/D) may
+         be opened intermittently under administrative control without constituting a violation of
+         containment integrity.</background>
+      <eventDesc>During research into the qualification of electrical penetrations in reactor
+         containment building, discrepancies in the qualification basis of six sealing mechanisms
+         (penetration feedthrough assemblies) have been identified. RE-091A and RE-091B (Containment
+         Hi Range Monitors) signal cables are affected. HCV-240 (Pressurizer RC-4 Auxiliary Spray
+         Inlet Valve), TCV-202 (Reactor Coolant System Loop 2A Letdown Temperature Control Valve),
+         HCV-248 (Reactor Coolant System Loop 2A Charging Line Stop Valve) and HCV-249 (Pressurizer
+         RC-4 Aux Spray Inlet Valve HCV-240 bypass valve) cables are affected. The affected
+         penetrations are original plant equipment. The condition of these penetrations violates TS
+         2.6(1)a. This report is being made per 10 CFR 50.73(a)(2)(ii)(B) and 10 CFR
+         50.73(a)(2)(i)(B).</eventDesc>
+      <conclusion>A cause analysis is in progress and the results will be included in a supplement
+         to this LER.</conclusion>
+      <correctiveActions>The station is currently in a refueling mode. Corrective actions to address
+         the causes of this condition will be documented in a supplement to this LER. The subject
+         electrical penetrations will be restored to full qualification prior to plant
+         startup.</correctiveActions>
+      <safetySignificance>An evaluation of the safety significance of this issue will be completed
+         following the completion of the cause analysis.</safetySignificance>
+      <safetySystemFunctionalFailure>This event does not result in a safety system functional
+         failure in accordance with NEI-99-02.</safetySystemFunctionalFailure>
+      <previousEvents>No previous qualifications issues with containment penetrations have been
+         identified.</previousEvents>
+   </narrative>
+</ler>

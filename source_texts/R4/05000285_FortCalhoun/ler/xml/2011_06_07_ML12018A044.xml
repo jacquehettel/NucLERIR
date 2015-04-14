@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2011-06-07" id="2852011010">
+   <abstract>On June 7, 2011, a bus fault in load center 1B4A initiated a switch gear fire that
+      resulted in the opening of a circuit breaker which supplies power to load center 1B3A,
+      associated with the opposite train. A fire in one fire area that resulted in a loss of power
+      to a load center associated with the opposite train is not in compliance with 10 CFR 50,
+      Appendix R. The analysis assumes that a fire in a fire area affecting one train of power will
+      be isolated such that power associated with the redundant train will be maintained. A root
+      cause analysis is being performed to determine the cause of the failure. The affected bus was
+      de-energized and the Halon system extinguished the fire. The Halon system was recharged and
+      restored to service. Inspections and testing of the unaffected 480 V buses, the supply circuit
+      breakers to the 480 V buses, and the 480 V bus tie circuit breakers were performed.
+      Appropriate 480 V supply circuit breakers and bus tie circuit breakers passed their
+      inspections and testing. The fire damaged switchgear (1B4A), which contains two 480V supply
+      circuit breakers, 1B4A and BT-1B4A (supply circuit breaker to the associated “island” bus), is
+      being replaced. Additional corrective actions will be specified following the completion of
+      the root cause analysis.</abstract>
+   <narrative>
+      <background>Fort Calhoun Station (FCS) is a two-loop reactor coolant system of Combustion
+         Engineering (CE) design. The plant has six safety-related 480 VAC (V) buses and three 480 V
+         safety related “island” cross-tie buses. The island buses are fed from one side or the
+         other of the main 480 V buses. Load center 1B3A and 1B3C normally feed island buses in the
+         east switchgear room, and 1B4C normally feeds an island bus in the west switchgear room.
+         Non-segregated bus work connects each island bus to its alternate power supply on the
+         opposite switchgear side. The 480 V bus feeder circuit breakers are NLI/Square D Masterpact
+         circuit breakers with Micrologic trip units.</background>
+      <eventDesc>On June 7, 2011, a bus fault in load center 1B4A initiated a switch gear fire that
+         resulted in the opening of a circuit breaker which supplies power to load center 1B3A,
+         associated with the opposite train. The fact that a fire in one fire area resulted in a
+         loss of power to a load center associated with the opposite train is inconsistent with
+         assumptions made in the 10 CFR 50, Appendix R Safe Shutdown analysis. This compliance
+         analysis assumes that a fire in a fire area affecting one train of power will be isolated
+         such that power associated with the redundant train will be maintained. Although there was
+         local indication at the circuit breaker that the 1B3A main feeder circuit breaker opened
+         due to an overcurrent condition, other available information does not conclusively indicate
+         that a fault that should have opened the 1B3A main feeder circuit breaker actually
+         occurred. Investigation is continuing into the cause of the trip of the 1B3A main feeder
+         circuit breaker. On November 15, 2011, this event was determined to be reportable per 10
+         CFR 50.73(a)(2)(v). This event is being reported per 10 CFR 50.73(a)(2)(v)(A), (B), (C) and
+         (D). </eventDesc>
+      <conclusion>During normal plant operation, 480V load center and bus tie circuit breakers are
+         expected to remain closed to provide 480V, three phase power to their associated buses. In
+         the event of a fault on the associated bus, a load center circuit breaker or bus tie
+         circuit breaker should open to isolate the fault without opening the next circuit breaker
+         upstream, i.e., the circuit breakers should coordinate to isolate the fault by preserving
+         power to loads not directly impacted by the fault. The FCS 10 CFR 50, Appendix R, Safe
+         Shutdown Analysis credits coordination of the 480 V load center and bus tie circuit
+         breakers for a fire in either switchgear room by assuming that a fault resulting from the
+         fire damaged switchgear will be isolated by bus tie circuit breakers associated with the
+         opposite train. Isolation of the fault by the bus tie circuit breakers will result in one
+         train of AC power remaining in operation during a worst case fire event. The 10 CFR 50,
+         Appendix R, Safe Shutdown Analysis demonstrates that the plant can be safely brought to hot
+         shutdown from an operating mode and subsequently to cold shutdown with a worst case fire in
+         any fire area in the plant. Coordination of plant circuit breakers is analyzed in the FCS,
+         “Breaker/Fuse Coordination Study.” The two analyses referenced in this discussion support
+         the FCS Updated Safety Analysis Report (USAR) requirement that “Design provisions were made
+         to limit fire damage to one train of the electrical systems…” 480 V load center and bus tie
+         circuit breakers are expected to remain closed under normal conditions to provide power to
+         buses to which they are aligned within the loading limitations as established in operating
+         procedures. In the event of a fault on a main bus or island bus, the circuit breaker
+         supplying that bus should open to isolate the fault without tripping upstream circuit
+         breakers. Load center circuit breakers should not open due to a fault or fire in the
+         opposite train. 10 CFR 50, Appendix R design assumptions are that a fire in either the east
+         or west switchgear room will result in the loss of switchgear in the affected room, but
+         will not impact the operability of the switchgear in the opposite room. During the fire in
+         1B4A, the formation of fire residue (soot) on the non-segregated bus stabs within 1B4A
+         switchgear bus tie circuit breaker cubicle created fault currents that were sensed by
+         circuit breaker 1B3A. At the time of the event, circuit breaker BT-1B4A was open and
+         circuit breaker BT-1B3A was closed supplying island bus 1B3A-4A. An NRC Part 21 (2005-039)
+         addressed spurious tripping of the Micrologic trip devices, and the supplier Nuclear
+         Logistics Incorporated (NLI) added a filter capacitor to the trip module. Additionally, a
+         subsequent industry spurious trip of NLI/Square D Masterpact circuit breakers in 2008 (OE
+         21873) resulted in a design change to the trip module. The NLI/Square D Masterpact circuit
+         breakers replaced in 2009, contained the industry operating experience of the Micrologic
+         trip units, and the vendor confirmed the FCS trip units contained the upgrades driven by
+         the NRC Part 21 (2005-039). </conclusion>
+      <correctiveAction>As documented in LER 2011-008 (Fire in Bus 1B4A) the following actions have
+         been or are being taken: The affected bus was de-energized and the Halon system
+         extinguished the fire. The Halon system was recharged and restored to service. FCS
+         conducted inspections and testing of the unaffected 480 V buses, the supply circuit
+         breakers to the 480 V buses, and the 480 V bus tie circuit breakers. The tested 480 V
+         supply circuit breakers and bus tie circuit breakers passed their inspections and testing.
+         FCS is replacing the affected bus (1B4A), which contains two 480 V supply circuit breakers,
+         1B4A and BT-1B4A (supply circuit breaker to the associated “island” bus). Additional
+         corrective actions will be determined following completion of the root cause for this
+         event. </correctiveAction>
+      <safetySignificance>The safety significance will be fully evaluated following completion of
+         the root cause analysis for this event. SAFETY SYSTEM FUNCTIONAL FAILURE This event does
+         result in a safety system functional failure in accordance with
+         NEI-99-02.</safetySignificance>
+      <previousEvents>LER 2011-008 documents the fire associate with this event.</previousEvents>
+   </narrative>
+</ler>

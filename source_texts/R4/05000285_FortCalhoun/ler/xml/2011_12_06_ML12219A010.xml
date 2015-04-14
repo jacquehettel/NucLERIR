@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2011-12-06" id="2852012010">
+   <abstract>While preparing an engineering package to relocate two transmitters, Fort Calhoun
+      Station engineering identified seismic class 1 components in a seismic class 2 instrument
+      rack. This appears to be a legacy issue. The instrument racks in the auxiliary building and
+      containment were assessed with respect to the Updated Safety Analysis Report (USAR) specified
+      class 1 requirements for seismic design. The seismic calculations for two instrument racks
+      were over the analyzed weight for the seismic analysis. The instruments on these racks are
+      used for reactor coolant system (RCS) pressure transmitters. During a seismic event, the
+      excessive weight of these instrument racks could cause the racks to fail, resulting in an
+      unisolable leak from the RCS. A cause analysis is in progress. The results of the analysis
+      will be published in a supplement to this LER.</abstract>
+   <narrative>
+      <background>Fort Calhoun Station (FCS) is a two-loop reactor coolant system of Combustion
+         Engineering (CE) design.</background>
+      <eventDescription>While preparing an engineering package to relocate two transmitters, Fort
+         Calhoun Station engineering identified seismic class 1 components in a seismic class 2
+         instrument rack. This appears to be a legacy issue. The instrument racks in the auxiliary
+         building and containment were assessed with respect to the Updated Safety Analysis Report
+         (USAR) specified class 1 requirements for seismic design. The seismic calculations for two
+         instrument racks were over the analyzed weight for the seismic analysis. The instruments on
+         these racks are used for reactor coolant system (RCS) pressure transmitters. During a
+         seismic event, the excessive weight of these instrument racks could cause the racks to
+         fail, resulting in an unisolable leak from the RCS. At 2059 Central Daylight Time (CDT) on
+         June 4, 2012, an 8-hour notification was made to the Headquarters Operations office (HOO),
+         under 10CFR50.72(b)(3)(ii)(A), degraded condition. Subsequent internal review has
+         determined that the initial reporting criterion for degraded condition, 10 CFR
+         50.72(b)(3)(ii)(A), was incorrect. The 8-hour non-emergency notification should have been
+         made under 10 CFR 50.72(b)(3)(ii)(B), unanalyzed condition. On August 3, 2012, Event
+         Notification (EN) 47992 was updated to correct the reporting criterion. This report is
+         being submitted in accordance with 10 CFR 50.73(a)(2)(ii)(B). This LER reports a condition
+         where components classified as seismic class 1 were installed in instrument racks
+         classified as seismic class 2, specifically RCS pressure transmitters that are part of the
+         RCS pressure boundary. A failure of these racks during a seismic event could result in an
+         unisolable RCS leak. The condition was documented in the FCS corrective action system on
+         December 6, 2011. The initial Operations review focused on the current operating
+         conditions, noting that the condition would need to be resolved prior to start up. The
+         station paradigm inappropriately concluded that reportability could be evaluated at a later
+         date since current operating conditions were not challenged, and that the 60-day reporting
+         window commenced when the event was determined to be reportable. This condition was
+         initially reported in Event Notification (EN) 47992 on June 4, 2012, at 2059 CDT. FCS has
+         been systematically addressing issues that have been identified since June 2011, in
+         response to the flooding conditions, switchgear fire, and increased oversight. This LER is
+         being submitted beyond the 60-day regulatory reporting requirement due to non-conservative
+         decisions with respect to procedural and regulatory reportability requirements and resource
+         constraints caused by the operating challenges which began in June 2011.</eventDescription>
+      <conclusion>A cause analysis is in progress. The results of the analysis will be published in
+         a supplement to this LER.</conclusion>
+      <correctiveActions>A cause analysis is in progress. The corrective actions will be published
+         in a supplement to this LER.</correctiveActions>
+      <safetySignificance>A cause analysis is in progress. The results of the analysis will be
+         published in a supplement to this LER.</safetySignificance>
+      <safetySystemFunctionalFailure>This event does not result in a safety system functional
+         failure in accordance with NEI-99-02.</safetySystemFunctionalFailure>
+      <previousEvents> A cause analysis is in progress. Previous Events will be determined from the
+         results of the cause analysis.</previousEvents>
+   </narrative>
+</ler>

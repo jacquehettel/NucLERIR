@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ler when="2011-02-03" id="2852011003" version="2">
+   <abstract>During identification and evaluation of flood barriers, unsealed through wall
+               penetrations in the outside wall of the intake, auxiliary and chemistry and radiation
+               protection buildings were identified that are below the licensing basis flood
+               elevation. Additionally a potential flooding issue was identified on the inside of
+               the Intake Structure. Holes were noted in the floor at the 1007’6” level, which is
+               the ceiling of the Raw Water Vault. A summary of the root causes included: a weak
+               procedure revision process; insufficient oversight of work activities associated with
+               external flood matters; ineffective identification, evaluation and resolution of
+               performance deficiencies related to external flooding; and “safe as is” mindsets
+               relative to external flooding events. The penetrations were temporarily sealed and a
+               configuration change was developed and implemented whereby permanent seals were
+               installed. A one foot sandbag berm was placed around the holes. Comprehensive
+               corrective actions to address the root and contributing causes are being addressed
+               through the corrective action program.</abstract>
+   <narrative>
+      <background>As a result of a Nuclear Regulatory Commission (NRC)
+         inspection conducted from January 1 to June 21, 2010, the NRC determined that Fort Calhoun
+         Station (FCS) did not have adequate procedures to protect the intake structure and
+         auxiliary building against external flooding events. Specifically, contrary to Technical
+         Specification 5.8.1.a, the station failed to maintain procedures for combating a
+         significant flood as recommended by Regulatory Guide 1.33, Appendix A, section 6.w, “Acts
+         of Nature.” The NRC identified the following violation of NRC requirements associated with
+         a yellow significance determination process finding in the mitigating systems cornerstone
+         in inspection report 05000285/2010008 dated October 6, 2010: Technical Specification
+         5.8.1.a, “Procedures,” states, “Written procedures and administrative policies shall be
+         established, implemented, and maintained covering the following activities: (a) The
+         applicable procedures recommended in Regulatory Guide 1.33, Revision 2, Appendix A, 1978.”
+         NRC Regulatory Guide 1.33, “Quality Assurance Program Requirements (Operation),” Appendix
+         A, “Typical Procedures for Pressurized Water Reactors and Boiling Water Reactors,” Section
+         6, recommends procedures for combating emergencies and other significant events. Section
+         6.w, “Acts of Nature,” includes, in part, procedures for combating floods. Contrary to
+         Technical Specification 5.8.1.a, since 1978, written procedures and administrative policies
+         were not maintained covering the applicable procedures recommended by NRC Regulatory Guide
+         1.33, Revision 2, Appendix A. Specifically, the licensee failed to maintain written
+         procedures for combating a significant external flood as recommended by NRC Regulatory
+         Guide, Appendix A, Section 6.w, “Acts of Nature.” The licensee’s written procedures did not
+         adequately prescribe steps to mitigate external flood conditions in the Auxiliary Building
+         and Intake Structure up to 1014 feet mean sea level, as documented in the Updated Final
+         Safety Analysis Report [USAR]. The NRC reported that the station’s flood protection
+         strategy was not fully effective during worst-case Missouri River flooding scenarios. The
+         strategy required workers to install floodgates in front of the doors to the plant’s
+         auxiliary building and intake structure, and then stack and drape sandbags over the top of
+         the floodgates up to a height of five feet. The procedural guidance was inadequate because
+         the cross-section on top of the floodgates would not support a stacked sandbag
+         configuration that would retain five feet of moving water.</background>
+      <eventDesc>During identification and evaluation of flood
+         barriers (condition report (CR) 2010-2387), in response to NRC findings previously noted,
+         unsealed through wall penetrations in the intake structure were identified that are below
+         the licensing basis flood elevation. These penetrations were installed during the
+         installation of upgrades to the plant fire protection system. As a result of the
+         penetrations not being sealed, the intake structure was vulnerable to water inflow during
+         an extreme flooding event. This inflow had the potential to affect the operability of both
+         trains of safety related raw water pumps (ultimate heat sink). On February 4, 2011, an
+         eight (8) hour report was made under 10 CFR 50.72 (b)(3)(v)(D) to the NRC Headquarters
+         Operation Office (HOO) at 1717 CST (Event Number (EN) 46594). The report should have been
+         made on September 9, 2009. (Documented in Condition Report (CR) 2011-0801) During the
+         extent of cause analysis for this issue the following penetrations were identified as not
+         having been reported. Unsealed penetrations were created during the installation of the
+         original plant security system and were abandoned when the security system was replaced
+         (approximately 1985). The penetrations for the “new” security system were appropriately
+         sealed. The old penetrations were abandoned and not sealed. As a result of the penetrations
+         not being sealed, the intake structure was vulnerable to water inflow during an extreme
+         flooding event. This inflow had the potential to affect the operability of both trains of
+         safety related raw water pumps (ultimate heat sink). On February 27, 2011, an eight (8)
+         hour report was made under 10 CFR 50.72 (b)(3)(v)(D) to the NRC Headquarters Operation
+         Office (HOO) at 1640 CST (EN 46590). The report should have been made on January 27, 2011.
+         (Documented in CR 2011-0609) Two additional conduits have been identified that are not
+         sealed. These conduits penetrate the south wall of the auxiliary building near the
+         transformers into Room 19 and were created as part of a station modification that was in
+         progress at the time. Flooding through the penetrations could have impacted the ability of
+         the station's auxiliary feedwater (AFW) pumps to perform their design accident mitigation
+         functions. On March 31, 2011, an eight (8) hour report was made under 10 CFR 50.72
+         (b)(3)(v)(D) to the NRC Headquarters Operation Office (HOO) at 2232 CDT (EN 46716)
+         (Documented in CR 2011-2470) A weakness in the flood protection strategy was discovered
+         that would prevent protection of the raw water pumps for floods above 1007 feet-6 inches
+         mean sea level (MSL). The flood protection strategy includes control of the intake cell
+         level by throttling the sluice gates and running raw water pumps to maintain cell level.
+         During the preparation of a calculation to demonstrate the validity of this method it was
+         determined that the grid backwash pipe for each grid and the surface sluice penetrate the
+         east wall of the intake structure through an unsealed penetration (7 penetrations). The
+         grid backwash line is an 18 inch pipe passing through a 24 inch sleeve. Cell in-leakage
+         through these penetrations would be beyond the capacity of the raw water pumps resulting in
+         flooding of the intake structure and loss of the raw water pump function. On March 22,
+         2011, an eight (8) hour report was made under 10 CFR 50.72 (b)(3)(v)(D) to the NRC
+         Headquarters Operation Office (HOO) at 1611 CDT (EN 46690). (Documented in CR 2011-2161) An unsealed conduit (location 56E-S-43 in pull box 127) was
+         identified that penetrates the auxiliary building into Room 56. Room 56 contains the safety
+         related electrical switchgear. In addition, a drain flow path from the Chemistry and
+         Radiation Protection (CARP) building into Room 23 which can drain into the rooms holding
+         the Emergency Core Cooling System (ECCS) Pumps was identified. On April 8, 2011, an eight
+         (8) hour report was made under 10 CFR 50.72 (b)(3)(v)(D) to the NRC Headquarters Operation
+         Office (HOO) at 1240 CDT (EN 46741). (Documented in CRs 2011-2072 and 2011-2448) Three
+         fittings into room 19 (auxiliary feedwater and plant air compressors) and fittings into
+         room 56E (electrical switchgear) were found to contain no filling material. One additional
+         fitting into room 56E that was thought to be capped was found to be open with a sheet metal
+         box covering the inside access thereby obscuring inspections. The stations auxiliary
+         feedwater and safety related electrical switch gear could be affected. On October 20, 2011,
+         an eight (8) hour report was made under 10 CFR 50.72 (b)(3)(v)(B) and (D) to the NRC
+         Headquarters Operation Office (HOO) at 1246 CDT (EN 47359). (Documented in CR 2011-8547)
+         Since each of these incidents are events that are related (i.e., they have the same cause
+         and consequences) and they were discovered during a single activity (i.e., investigation to
+         correct the initial problem) then per NUREG 1022, Revision 2, these are being reported in
+         one LER. This report is being made per 10 CFR 50.73(a)(2)(v)(B) and (D).</eventDesc>
+         <conclusion>A root
+         cause determination was prepared in connection with CR 2010-2387 which documents the causes
+         of the problem. The following four (4) root causes explain why written procedures were
+         inadequate to mitigate the external flood conditions prescribed by the Updated Safety
+         Analysis Report (USAR). These root causes address the NRC issued yellow finding as well as
+         the specific penetrations being addressed in this LER. Historically, when procedures for
+         flooding protection were restructured or substantially augmented, a weak procedure revision
+         process did not assure FCS met its USAR requirements. Supervisory and management oversight
+         of work activities associated with external flood matters was not sufficient to prevent
+         this issue from occurring. The FCS organization has not been effective in ensuring that
+         performance deficiencies related to external flooding are adequately identified, evaluated,
+         and resolved. Mindsets existed that FCS was “safe as is” relative to external flooding
+         events. These mindsets collectively led to the incorrect conclusion that regulatory
+         requirements were being met.</conclusion>
+      <correctiveActions>Configuration changes were developed as
+         needed and the penetrations sealed. Comprehensive corrective actions to address the root
+         and contributing causes have been developed and will be addressed through the corrective
+         action program.</correctiveActions>
+      <safetySignificance>The Fort Calhoun Station is required to be
+         protected from flooding within the station’s licensing basis. The safety related equipment
+         required to mitigate the consequences of an accident were affected by these findings. The
+         openings could have jeopardized the ability of the safety related equipment to perform
+         their design basis function during an accident. Other methods of removing decay heat and
+         mitigating the consequences of a flooding event were available. Therefore, this external
+         flooding concern has substantial importance to safety as indicated by the Yellow Finding
+         issued for this event.</safetySignificance>
+      <safetySystemFunctionalFailure>This event does result in a safety
+         system functional failure in accordance with NEI-99-02.</safetySystemFunctionalFailure>
+      <previousEvents>No licensee event
+         report prior to this has identified the flooding issue. LER 2011-001 which had been written
+         to report a flooding penetration has been cancelled as indicated in Reference 3 to the
+         cover letter to this LER. The penetration is discussed in this LER.</previousEvents>
+   </narrative>
+</ler>
+
+      <Table>
+         <TR>
+            <TD>FORT CALHOUN STATION </TD>
+
+            <TD/>
+
+            <TD/>
+
+            <TD>NOD-QP-9.2 </TD>
+         </TR>
+
+         <TR>
+            <TD>QUALITY PROCEDURE FORM </TD>
+
+            <TD/>
+
+            <TD>R0 </TD>
+         </TR>
+
+         <TR>
+            <TD/>
+
+            <TD>LICENSING CORRESPONDENCE REVIEW FORM </TD>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD/>
+
+            <TD/>
+
+            <TD>LIC-12-00022 </TD>
+
+            <TD/>
+         </TR>
+      </Table>
+
+      <P>Date Issued: 2/27/12 Requested Return Date:____2/28/12______ </P>
+
+      <Table>
+         <TR>
+            <TH>Review/Approval </TH>
+
+            <TH>Information </TH>
+         </TR>
+
+         <TR>
+            <TH>Dave Bannister </TH>
+
+            <TD/>
+
+            <TD>Lynn Smith </TD>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH>Susan Baughn </TH>
+
+            <TD/>
+
+            <TD>Brad Blome </TD>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH>Cory Cameron </TH>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH>Mike Cooper </TH>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+      </Table>
+
+      <P>Subject___ Inadequate Flooding Protection Rev 2 </P>
+
+      <P>Please review and approve the attached draft correspondence (referenced above). In order to
+         document your review for our records, please sign this form and return it to the Licensing
+         Coordinator. If n o notification is received by the requested return date, your concurrence
+         with no comment will be assumed. </P>
+
+      <P>E. Matzke 1597____ Technical Coordinator (Ext.) Licensing Coordinator (Ext.) </P>
+
+      <P>[ ] Approved with no comment. [ ] Approved pending resolution of comments as noted. </P>
+
+      <P>Comments:_______________________________________________________________________________ </P>
+
+      <Table>
+         <TR>
+            <TH>___________________________ </TH>
+         </TR>
+
+         <TR>
+            <TH>___ </TH>
+
+            <TD>_________________ </TD>
+         </TR>
+
+         <TR>
+            <TH> Reviewer's Signature </TH>
+
+            <TD>Date </TD>
+         </TR>
+      </Table>
+
+      <Table>
+         <TR>
+            <TH>FORT CALHOUN STATION QUALITY PROCEDURE FORM </TH>
+
+            <TH>NOD-QP-9.2 R0 </TH>
+         </TR>
+
+         <TR>
+            <TH>LICENSING CORRESPONDENCE REVIEW FORM SUMMARY </TH>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH>LIC-12-0022 </TH>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TH>Date Issued: </TH>
+
+            <TD>2/27/12 </TD>
+
+            <TD>Requested Return Date: </TD>
+
+            <TD>2/28/12 </TD>
+
+            <TD/>
+         </TR>
+      </Table>
+
+      <Table>
+         <TR>
+            <TD>Name </TD>
+
+            <TD>Date Comments Received </TD>
+
+            <TD>No Comments1 </TD>
+
+            <TD>Comments - How Resolved2 </TD>
+         </TR>
+
+         <TR>
+            <TD>Dave Bannister </TD>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD>Susan Baughn </TD>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD>Cory Cameron </TD>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD>Mike Cooper </TD>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD>Lynn Smith </TD>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+
+         <TR>
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+
+            <TD/>
+         </TR>
+      </Table>
+
+      <Table>
+         <TR>
+            <TH>Subject: Inadequate Flooding Protection Rev 2 </TH>
+         </TR>
+
+         <TR>
+            <TH>NOTE – This submittal does ____ does not __X__ include documents/files on CD-ROM.3
+            </TH>
+         </TR>
+
+         <TR>
+            <TH>NL Comment Coordinator Signature E. Matzke </TH>
+
+            <TD>Date </TD>
+         </TR>
+
+         <TR>
+            <TH>Responsible Dept. Manager (if required) </TH>
+
+            <TD>Date </TD>
+         </TR>
+
+         <TR>
+            <TH>Review by Nuclear Licensing Supervisor </TH>
+
+            <TD>Date </TD>
+         </TR>
+      </Table>
+
+      <P>1 Attach only signed Licensing Correspondence Review Form. 2 Attach necessary
+         documentation. 3 Ensure that the CD-ROM files are formatted properly for electronic
+         information exchange (EIE) to the </P>
+
+      <P>NRC. (Reference NL-17) </P>
+   </Part>
+</TaggedPDF-doc>
